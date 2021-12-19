@@ -119,13 +119,6 @@
     "githubURL": "https://github.com/bundesAPI/smard-api"
   },
   {
-    "name": "Bundesnetzagentur",
-    "office": "Strommarktdaten",
-    "description": "Zugriff auf Strommarktdaten der Bundesnetzagentur.",
-    "documentationURL": "https://smard.api.bund.dev",
-    "githubURL": "https://github.com/bundesAPI/smard-api"
-  },
-  {
     "name": "Deutscher Bundestag",
     "office": "DIP API",
     "description": "Über diese API ist ein lesender Zugriff auf die Entitäten von DIP (Vorgänge und Vorgangspositionen, Aktivitäten, Personen sowie Drucksachen und Plenarprotokolle) möglich.",
