@@ -59,7 +59,7 @@
     "name": "Luftqualität",
     "office": "Umweltbundesamt",
     "description": "Schnittstellen der unterschiedlichen Visualisierungen der Luftdaten-Seite des Umweltbundesamtes.",
-    "documentationURL": "https://risikogebiete.api.bund.dev",
+    "documentationURL": "https://luftqualitaet.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/luftqualitaet-api"
   },
   {
