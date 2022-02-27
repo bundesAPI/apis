@@ -23,7 +23,7 @@
   {
     "name": "Autobahn App API",
     "office": "Autobahn GmbH",
-    "description": "Was passiert auf Deutschlands Bundesstraßen? API für aktuelle Verwaltungsdaten zu Baustellen, Staus und Ladestationen. Außerdem Zugang zu Verkehrsüberwachungskameras und vielen weiteren Datensätzen.\n\n",
+    "description": "Was passiert auf Deutschlands Bundesstraßen? API für aktuelle Verwaltungsdaten zu Baustellen, Staus und Ladestationen. Außerdem Zugang zu Verkehrsüberwachungskameras und vielen weiteren Datensätzen.",
     "documentationURL": "https://autobahn.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/autobahn-api"
   },
@@ -37,9 +37,37 @@
   {
     "name": "Jobsuche API",
     "office": "Bundesagentur für Arbeit",
-    "description": "Die größte Stellendatenbank Deutschlands durchsuchen, Details zu Stellenanzeigen und Informationen über Arbeitgeber abrufen.\n",
+    "description": "Die größte Stellendatenbank Deutschlands durchsuchen, Details zu Stellenanzeigen und Informationen über Arbeitgeber abrufen.",
     "documentationURL": "https://jobsuche.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/jobsuche-api"
+  },
+  {
+    "name": "Weiterbildungssuche API",
+    "office": "Bundesagentur für Arbeit",
+    "description": "Eine der größten Weiterbildungsdatenbanken Deutschlands durchsuchen.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/weiterbildungssuche-api"
+  },
+  {
+    "name": "Ausbildungssuche API",
+    "office": "Bundesagentur für Arbeit",
+    "description": "Eine der größten Ausbildungsdatenbanken Deutschlands durchsuchen.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/AndreasFischer1985/ausbildungssuche-api"
+  },
+  {
+    "name": "Studiensuche API",
+    "office": "Bundesagentur für Arbeit",
+    "description": "Eine der größten Datenbanken für Studienangebote in Deutschland durchsuchen.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/AndreasFischer1985/studiensuche-api"
+  },
+  {
+    "name": "Entgeltatlas API",
+    "office": "Bundesagentur für Arbeit",
+    "description": "Eine Datenbank zu Entgelten für Berufstätigkeiten in Deutschland durchsuchen.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/AndreasFischer1985/entgeltatlas-api"
   },
   {
     "name": "DESTATIS API",
@@ -63,21 +91,21 @@
     "githubURL": "https://github.com/bundesAPI/luftqualitaet-api"
   },
   {
-    "name": "Red Notices API",
+    "name": "Interpol Notices API",
     "office": "Interpol",
-    "description": "Per Interpol gesuchte Menschen per API abrufen.",
+    "description": "Per Interpol gesuchte oder vermisste Menschen per API abrufen.",
     "documentationURL": "https://interpol.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/interpol-api"
   },
   {
-    "name": "App API",
+    "name": "Polizei Brandenburg API",
     "office": "Polizei Brandenburg",
     "description": "Polizei Brandenburg Nachrichten, Hochwasser-, Verkehrs- und Waldbrandwarnungen.",
     "documentationURL": "https://polizei.brandenburg.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/polizei-brandenburg-api"
   },
   {
-    "name": "Live Informationen",
+    "name": "Bundestag Live Informationen",
     "office": "Bundestag",
     "description": "Aktuelle Informationen aus dem deutschen Bundestag.",
     "documentationURL": "https://bundestag.api.bund.dev",
@@ -104,6 +132,14 @@
     "documentationURL": "https://zoll.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/zoll-api"
   },
+
+  {
+    "name": "Handelsregister",
+    "office": "Landesjustizverwaltung Nordrhein-Westfalen im Auftrag aller Länder der Bundesrepublik Deutschland",
+    "description": "API zum Abruf von allgemeinen Unternehmensinformationen über jedes Unternehmen im Handelsregister.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/handelsregister"
+  },
   {
     "name": "Reisewarnungen OpenData Schnittstelle",
     "office": "Auswärtigen Amtes",
@@ -112,8 +148,8 @@
     "githubURL": "https://github.com/bundesAPI/travelwarning-api"
   },
   {
-    "name": "Bundesnetzagentur",
-    "office": "Strommarktdaten",
+    "name": "SMARD API",
+    "office": "Bundesnetzagentur",
     "description": "Zugriff auf Strommarktdaten der Bundesnetzagentur.",
     "documentationURL": "https://smard.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/smard-api"
@@ -133,6 +169,4 @@
     "githubURL": "https://git.fitko.de/fit-connect"
 
   }
-
-
 ]
