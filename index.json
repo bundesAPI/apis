@@ -1,38 +1,31 @@
 [
   {
-    "name": "ODL-Info API",
-    "office": "Bundesamt für Strahlenschutz",
-    "description": "Daten zur radioaktiven Belastung in Deutschland.",
-    "documentationURL": "https://strahlenschutz.api.bund.dev",
-    "githubURL": "https://github.com/bundesAPI/strahlenschutz-api"
+    "name": "DIP Bundestag API",
+    "office": "Deutscher Bundestag",
+    "description": "Über diese API ist ein lesender Zugriff auf die Entitäten von DIP (Vorgänge und Vorgangspositionen, Aktivitäten, Personen sowie Drucksachen und Plenarprotokolle) möglich.",
+    "documentationURL": "https://dip.bundestag.de/%C3%BCber-dip/hilfe/api",
+    "githubURL": "https://github.com/bundesAPI/dip-bundestag-api"
   },
   {
-    "name": "Ladesäulenregister",
-    "office": "Bundesnetzagentur",
-    "description": "API des Ladesäulenregisters der Bundesnetzagentur",
-    "documentationURL": "https://ladestationen.api.bund.dev",
-    "githubURL": "https://github.com/bundesAPI/ladestationen-api"
+    "name": "Bundestag Lobbyregister API",
+    "office": "Deutscher Bundestag",
+    "description": "API des Deutschen Bundestags zum Lobbyregister für die Interessenvertretung gegenüber dem Deutschen Bundestag und der Bundesregierung.",
+    "documentationURL": "https://dip.bundestag.de/%C3%BCber-dip/hilfe/api",
+    "https://github.com/bundesAPI/bundestag-lobbyregister-api"
   },
   {
-    "name": "DWD App API",
-    "office": "Deutscher Wetterdienst",
-    "description": "Aktuelle Wetterdaten von allen Deutschen Wetterstationen",
-    "documentationURL": "https://dwd.api.bund.dev",
-    "githubURL": "https://github.com/bundesAPI/dwd-api"
+    "name": "Bundestag Live Informationen",
+    "office": "Bundestag",
+    "description": "Aktuelle Informationen aus dem deutschen Bundestag.",
+    "documentationURL": "https://bundestag.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/bundestag-api"
   },
   {
-    "name": "Autobahn App API",
-    "office": "Autobahn GmbH",
-    "description": "Was passiert auf Deutschlands Bundesstraßen? API für aktuelle Verwaltungsdaten zu Baustellen, Staus und Ladestationen. Außerdem Zugang zu Verkehrsüberwachungskameras und vielen weiteren Datensätzen.",
-    "documentationURL": "https://autobahn.api.bund.dev",
-    "githubURL": "https://github.com/bundesAPI/autobahn-api"
-  },
-  {
-    "name": "NINA API",
-    "office": "Bundesamt für Bevölkerungsschutz",
-    "description": "Erhalten Sie wichtige Warnmeldungen des Bevölkerungsschutzes für Gefahrenlagen wie zum Beispiel Gefahrstoffausbreitung oder Unwetter per Programmierschnittstelle.",
-    "documentationURL": "https://nina.api.bund.dev",
-    "githubURL": "https://github.com/bundesAPI/nina-api"
+    "name": "Bundesrat Live Informationen",
+    "office": "Bundesrat",
+    "description": "Aktuelle Informationen aus dem deutschen Bundesrat.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/bundesrat-api"
   },
   {
     "name": "Jobsuche API",
@@ -75,21 +68,7 @@
     "description": "Statistische Daten des DESTATIS via restful API abrufen.",
     "documentationURL": "https://destatis.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/destatis-api"
-  },
-  {
-    "name": "Corona Risikogebiete API",
-    "office": "Robert Koch Institut",
-    "description": "Aktuelle Corona Risikogebietsinformationen als API.",
-    "documentationURL": "https://risikogebiete.api.bund.dev",
-    "githubURL": "https://github.com/bundesAPI/risikogebiete-api"
-  },
-  {
-    "name": "Luftqualität",
-    "office": "Umweltbundesamt",
-    "description": "Schnittstellen der unterschiedlichen Visualisierungen der Luftdaten-Seite des Umweltbundesamtes.",
-    "documentationURL": "https://luftqualitaet.api.bund.dev",
-    "githubURL": "https://github.com/bundesAPI/luftqualitaet-api"
-  },
+  },  
   {
     "name": "Interpol Notices API",
     "office": "Interpol",
@@ -105,12 +84,61 @@
     "githubURL": "https://github.com/bundesAPI/polizei-brandenburg-api"
   },
   {
-    "name": "Bundestag Live Informationen",
-    "office": "Bundestag",
-    "description": "Aktuelle Informationen aus dem deutschen Bundestag.",
-    "documentationURL": "https://bundestag.api.bund.dev",
-    "githubURL": "https://github.com/bundesAPI/bundestag-api"
+    "name": "Autobahn App API",
+    "office": "Autobahn GmbH",
+    "description": "Was passiert auf Deutschlands Bundesstraßen? API für aktuelle Verwaltungsdaten zu Baustellen, Staus und Ladestationen. Außerdem Zugang zu Verkehrsüberwachungskameras und vielen weiteren Datensätzen.",
+    "documentationURL": "https://autobahn.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/autobahn-api"
   },
+  {
+    "name": "Ladesäulenregister",
+    "office": "Bundesnetzagentur",
+    "description": "API des Ladesäulenregisters der Bundesnetzagentur",
+    "documentationURL": "https://ladestationen.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/ladestationen-api"
+  },  
+  {
+    "name": "NINA API",
+    "office": "Bundesamt für Bevölkerungsschutz",
+    "description": "Erhalten Sie wichtige Warnmeldungen des Bevölkerungsschutzes für Gefahrenlagen wie zum Beispiel Gefahrstoffausbreitung oder Unwetter per Programmierschnittstelle.",
+    "documentationURL": "https://nina.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/nina-api"
+  },  
+  {
+    "name": "ODL-Info API",
+    "office": "Bundesamt für Strahlenschutz",
+    "description": "Daten zur radioaktiven Belastung in Deutschland.",
+    "documentationURL": "https://strahlenschutz.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/strahlenschutz-api"
+  },  
+  {
+    "name": "Reisewarnungen OpenData Schnittstelle",
+    "office": "Auswärtigen Amtes",
+    "description": "Zugriff auf Reisewarnungen des Auswärtigen Amtes im Rahmen der OpenData Initiative.",
+    "documentationURL": "https://travelwarning.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/travelwarning-api"
+  },  
+  {
+    "name": "Corona Risikogebiete API",
+    "office": "Robert Koch Institut",
+    "description": "Aktuelle Corona Risikogebietsinformationen als API.",
+    "documentationURL": "https://risikogebiete.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/risikogebiete-api"
+  },
+  {
+    "name": "DWD App API",
+    "office": "Deutscher Wetterdienst",
+    "description": "Aktuelle Wetterdaten von allen Deutschen Wetterstationen",
+    "documentationURL": "https://dwd.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/dwd-api"
+  },    
+  {
+    "name": "Luftqualität",
+    "office": "Umweltbundesamt",
+    "description": "Schnittstellen der unterschiedlichen Visualisierungen der Luftdaten-Seite des Umweltbundesamtes.",
+    "documentationURL": "https://luftqualitaet.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/luftqualitaet-api"
+  },  
   {
     "name": "Meeresumweltdatenbank (MUDAB) 1.0.0",
     "office": "Umweltbundesamt",
@@ -132,7 +160,6 @@
     "documentationURL": "https://zoll.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/zoll-api"
   },
-
   {
     "name": "Handelsregister",
     "office": "Landesjustizverwaltung Nordrhein-Westfalen im Auftrag aller Länder der Bundesrepublik Deutschland",
@@ -141,25 +168,11 @@
     "githubURL": "https://github.com/bundesAPI/handelsregister"
   },
   {
-    "name": "Reisewarnungen OpenData Schnittstelle",
-    "office": "Auswärtigen Amtes",
-    "description": "Zugriff auf Reisewarnungen des Auswärtigen Amtes im Rahmen der OpenData Initiative.",
-    "documentationURL": "https://travelwarning.api.bund.dev",
-    "githubURL": "https://github.com/bundesAPI/travelwarning-api"
-  },
-  {
     "name": "SMARD API",
     "office": "Bundesnetzagentur",
     "description": "Zugriff auf Strommarktdaten der Bundesnetzagentur.",
     "documentationURL": "https://smard.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/smard-api"
-  },
-  {
-    "name": "Deutscher Bundestag",
-    "office": "DIP API",
-    "description": "Über diese API ist ein lesender Zugriff auf die Entitäten von DIP (Vorgänge und Vorgangspositionen, Aktivitäten, Personen sowie Drucksachen und Plenarprotokolle) möglich.",
-    "documentationURL": "https://dip.bundestag.de/%C3%BCber-dip/hilfe/api",
-    "githubURL": null
   },
   {
     "name": "FIT-Connect",
