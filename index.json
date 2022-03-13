@@ -10,8 +10,8 @@
     "name": "Bundestag Lobbyregister API",
     "office": "Deutscher Bundestag",
     "description": "API des Deutschen Bundestags zum Lobbyregister für die Interessenvertretung gegenüber dem Deutschen Bundestag und der Bundesregierung.",
-    "documentationURL": "https://dip.bundestag.de/%C3%BCber-dip/hilfe/api",
-    "https://github.com/bundesAPI/bundestag-lobbyregister-api"
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/bundestag-lobbyregister-api"
   },
   {
     "name": "Bundestag Live Informationen",
