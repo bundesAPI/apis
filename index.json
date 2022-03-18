@@ -46,21 +46,21 @@
     "office": "Bundesagentur für Arbeit",
     "description": "Eine der größten Ausbildungsdatenbanken Deutschlands durchsuchen.",
     "documentationURL": null,
-    "githubURL": "https://github.com/AndreasFischer1985/ausbildungssuche-api"
+    "githubURL": "https://github.com/bundesAPI/ausbildungssuche-api"
   },
   {
     "name": "Studiensuche API",
     "office": "Bundesagentur für Arbeit",
     "description": "Eine der größten Datenbanken für Studienangebote in Deutschland durchsuchen.",
     "documentationURL": null,
-    "githubURL": "https://github.com/AndreasFischer1985/studiensuche-api"
+    "githubURL": "https://github.com/bundesAPI/studiensuche-api"
   },
   {
     "name": "Entgeltatlas API",
     "office": "Bundesagentur für Arbeit",
     "description": "Eine Datenbank zu Entgelten für Berufstätigkeiten in Deutschland durchsuchen.",
     "documentationURL": null,
-    "githubURL": "https://github.com/AndreasFischer1985/entgeltatlas-api"
+    "githubURL": "https://github.com/bundesAPI/entgeltatlas-api"
   },
   {
     "name": "DESTATIS API",
