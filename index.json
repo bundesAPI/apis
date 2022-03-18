@@ -159,14 +159,7 @@
     "description": "API zum Abfragen von Importzöllen und Wechselkursen.",
     "documentationURL": "https://zoll.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/zoll-api"
-  },
-  {
-    "name": "Handelsregister",
-    "office": "Landesjustizverwaltung Nordrhein-Westfalen im Auftrag aller Länder der Bundesrepublik Deutschland",
-    "description": "API zum Abruf von allgemeinen Unternehmensinformationen über jedes Unternehmen im Handelsregister.",
-    "documentationURL": null,
-    "githubURL": "https://github.com/bundesAPI/handelsregister"
-  },
+  },  
   {
     "name": "SMARD API",
     "office": "Bundesnetzagentur",
