@@ -24,7 +24,7 @@
     "name": "Bundesrat Live Informationen",
     "office": "Bundesrat",
     "description": "Aktuelle Informationen aus dem deutschen Bundesrat.",
-    "documentationURL": null,
+    "documentationURL": "https://bundesrat.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/bundesrat-api"
   },
   {
