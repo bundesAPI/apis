@@ -1,7 +1,7 @@
 [
   {
     "name": "Tagesschau API",
-    "office": "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland",
+    "office": "ARD",
     "description": "Dokumentation zur API der Tagesschau",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/tagesschau-api"    
