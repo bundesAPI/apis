@@ -1,5 +1,12 @@
 [
   {
+    "name": "Tagesschau API",
+    "office": "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland",
+    "description": "Dokumentation zur API der Tagesschau",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/tagesschau-api"    
+  },
+  {
     "name": "DIP Bundestag API",
     "office": "Deutscher Bundestag",
     "description": "Über diese API ist ein lesender Zugriff auf die Entitäten von DIP (Vorgänge und Vorgangspositionen, Aktivitäten, Personen sowie Drucksachen und Plenarprotokolle) möglich.",
