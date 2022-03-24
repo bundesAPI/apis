@@ -161,6 +161,13 @@
     "githubURL": "https://github.com/bundesAPI/lebensmittelwarnung-api"
   },
   {
+    "name": "Pflanzenschutzmittelzulassungen API",
+    "office": "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit",
+    "description": "Informationen über die in Deutschland zugelassenen Pflanzenschutzmittel.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/pflanzenschutzmittelzulassung-api"
+  },
+  {
     "name": "Einfuhrzoll API",
     "office": "Bundeszollverwaltung",
     "description": "API zum Abfragen von Importzöllen und Wechselkursen.",
