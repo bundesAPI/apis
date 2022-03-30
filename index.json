@@ -63,6 +63,13 @@
     "githubURL": "https://github.com/bundesAPI/studiensuche-api"
   },
   {
+    "name": "Berufssprachkurssuche API",
+    "office": "Bundesagentur für Arbeit",
+    "description": "Eine der größten Berufssprachkursdatenbanken Deutschlands durchsuchen.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/berufssprachkurssuche-api"
+  },
+  {
     "name": "Entgeltatlas API",
     "office": "Bundesagentur für Arbeit",
     "description": "Eine Datenbank zu Entgelten für Berufstätigkeiten in Deutschland durchsuchen.",
@@ -132,6 +139,13 @@
     "documentationURL": "https://risikogebiete.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/risikogebiete-api"
   },
+  {
+    "name": "Hochwasserzentralen API",
+    "office": "LfU & LUBW",
+    "description": "Länderübergreifendes Hochwasserportal (LHP) ",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/hochwasserzentralen-api"
+  }, 
   {
     "name": "DWD App API",
     "office": "Deutscher Wetterdienst",
