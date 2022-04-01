@@ -63,12 +63,19 @@
     "githubURL": "https://github.com/bundesAPI/studiensuche-api"
   },
   {
+    "name": "Coachingangebote API",
+    "office": "Bundesagentur für Arbeit",
+    "description": "Eine der größten Datenbanken zu Coaching-/Aktivierungsmaßnahmen Deutschlands durchsuchen.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/coachingangebote-api"
+  },
+  {
     "name": "Berufssprachkurssuche API",
     "office": "Bundesagentur für Arbeit",
     "description": "Eine der größten Berufssprachkursdatenbanken Deutschlands durchsuchen.",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/berufssprachkurssuche-api"
-  },
+  },    
   {
     "name": "Entgeltatlas API",
     "office": "Bundesagentur für Arbeit",
