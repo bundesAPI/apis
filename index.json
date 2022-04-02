@@ -175,6 +175,13 @@
     "githubURL": "https://github.com/bundesAPI/mudab-api"
   },
   {
+    "name": "abfallnavi API",
+    "office": "regio iT",
+    "description": "Zugriff auf die Termine der Müllabfuhr unterschiedlicher Kommunen.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/abfallnavi-api"
+  },    
+  {
     "name": "Lebensmittelwarnungen API",
     "office": "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit",
     "description": "Liste aller Lebensmittel und Produktwarnungen.",
