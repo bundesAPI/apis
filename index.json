@@ -150,7 +150,7 @@
     "name": "Hochwasserzentralen API",
     "office": "LfU & LUBW",
     "description": "Länderübergreifendes Hochwasserportal (LHP) ",
-    "documentationURL": null,
+    "documentationURL": "https://bundesapi.github.io/hochwasserzentralen-api/",
     "githubURL": "https://github.com/bundesAPI/hochwasserzentralen-api"
   }, 
   {
