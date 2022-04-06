@@ -3,7 +3,7 @@
     "name": "Tagesschau API",
     "office": "ARD",
     "description": "Dokumentation zur API der Tagesschau",
-    "documentationURL": null,
+    "documentationURL": "https://bundesapi.github.io/tagesschau-api/",
     "githubURL": "https://github.com/bundesAPI/tagesschau-api"    
   },
   {
@@ -45,42 +45,42 @@
     "name": "Weiterbildungssuche API",
     "office": "Bundesagentur für Arbeit",
     "description": "Eine der größten Weiterbildungsdatenbanken Deutschlands durchsuchen.",
-    "documentationURL": null,
+    "documentationURL": "https://andreasfischer1985.github.io/weiterbildungssuche-api/",
     "githubURL": "https://github.com/bundesAPI/weiterbildungssuche-api"
   },
   {
     "name": "Ausbildungssuche API",
     "office": "Bundesagentur für Arbeit",
     "description": "Eine der größten Ausbildungsdatenbanken Deutschlands durchsuchen.",
-    "documentationURL": null,
+    "documentationURL": "https://bundesapi.github.io/ausbildungssuche-api/",
     "githubURL": "https://github.com/bundesAPI/ausbildungssuche-api"
   },
   {
     "name": "Studiensuche API",
     "office": "Bundesagentur für Arbeit",
     "description": "Eine der größten Datenbanken für Studienangebote in Deutschland durchsuchen.",
-    "documentationURL": null,
+    "documentationURL": "https://bundesapi.github.io/studiensuche-api/",
     "githubURL": "https://github.com/bundesAPI/studiensuche-api"
   },
   {
     "name": "Coachingangebote API",
     "office": "Bundesagentur für Arbeit",
     "description": "Eine der größten Datenbanken zu Coaching-/Aktivierungsmaßnahmen Deutschlands durchsuchen.",
-    "documentationURL": null,
+    "documentationURL": "https://bundesapi.github.io/coachingangebote-api/",
     "githubURL": "https://github.com/bundesAPI/coachingangebote-api"
   },
   {
     "name": "Berufssprachkurssuche API",
     "office": "Bundesagentur für Arbeit",
     "description": "Eine der größten Berufssprachkursdatenbanken Deutschlands durchsuchen.",
-    "documentationURL": null,
+    "documentationURL": "https://bundesapi.github.io/berufssprachkurssuche-api/",
     "githubURL": "https://github.com/bundesAPI/berufssprachkurssuche-api"
   },    
   {
     "name": "Entgeltatlas API",
     "office": "Bundesagentur für Arbeit",
     "description": "Eine Datenbank zu Entgelten für Berufstätigkeiten in Deutschland durchsuchen.",
-    "documentationURL": null,
+    "documentationURL": "https://bundesapi.github.io/entgeltatlas-api/",
     "githubURL": "https://github.com/bundesAPI/entgeltatlas-api"
   },
   {
@@ -178,7 +178,7 @@
     "name": "abfallnavi API",
     "office": "regio iT",
     "description": "Zugriff auf die Termine der Müllabfuhr unterschiedlicher Kommunen.",
-    "documentationURL": null,
+    "documentationURL": "https://bundesapi.github.io/abfallnavi-api/",
     "githubURL": "https://github.com/bundesAPI/abfallnavi-api"
   },    
   {
