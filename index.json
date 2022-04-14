@@ -89,7 +89,14 @@
     "description": "Statistische Daten des DESTATIS via restful API abrufen.",
     "documentationURL": "https://destatis.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/destatis-api"
-  },  
+  },
+  {
+    "name": "Deutschland Dashboard API",
+    "office": "Statistisches Bundesamt",
+    "description": "Statistische Daten des DESTATIS Deutschland Dashboard per API abrufen.",
+    "documentationURL": "https://bundesapi.github.io/dashboard-deutschland-api/",
+    "githubURL": "https://github.com/bundesAPI/dashboard-deutschland-api"
+  },    
   {
     "name": "Interpol Notices API",
     "office": "Interpol",
