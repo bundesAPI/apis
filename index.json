@@ -91,9 +91,9 @@
     "githubURL": "https://github.com/bundesAPI/destatis-api"
   },
   {
-    "name": "Deutschland Dashboard API",
+    "name": "Dashboard Deutschland API",
     "office": "Statistisches Bundesamt",
-    "description": "Statistische Daten des DESTATIS Deutschland Dashboard per API abrufen.",
+    "description": "Statistische Daten des DESTATIS Deutschland Deutschland per API abrufen.",
     "documentationURL": "https://bundesapi.github.io/dashboard-deutschland-api/",
     "githubURL": "https://github.com/bundesAPI/dashboard-deutschland-api"
   },    
