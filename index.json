@@ -45,7 +45,7 @@
     "name": "Weiterbildungssuche API",
     "office": "Bundesagentur für Arbeit",
     "description": "Eine der größten Weiterbildungsdatenbanken Deutschlands durchsuchen.",
-    "documentationURL": "https://andreasfischer1985.github.io/weiterbildungssuche-api/",
+    "documentationURL": "https://bundesapi.github.io/weiterbildungssuche-api/",
     "githubURL": "https://github.com/bundesAPI/weiterbildungssuche-api"
   },
   {
