@@ -182,12 +182,19 @@
     "githubURL": "https://github.com/bundesAPI/mudab-api"
   },
   {
-    "name": "abfallnavi API",
+    "name": "Abfallnavi API",
     "office": "regio iT",
     "description": "Zugriff auf die Termine der Müllabfuhr unterschiedlicher Kommunen.",
     "documentationURL": "https://bundesapi.github.io/abfallnavi-api/",
     "githubURL": "https://github.com/bundesAPI/abfallnavi-api"
   },    
+  {
+    "name": "Feiertage API",
+    "office": "Wikipedia",
+    "description": "Zugriff auf den Feiertage Webservice https://feiertage-api.de/ .",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/feiertage-api"
+  },     
   {
     "name": "Lebensmittelwarnungen API",
     "office": "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit",
