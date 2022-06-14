@@ -119,6 +119,13 @@
     "githubURL": "https://github.com/bundesAPI/autobahn-api"
   },
   {
+    "name": "Eco-Visio API",
+    "office": "Eco-Counter",
+    "description": "API zu Eco-Visio von Eco-Counter.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/eco-visio-api"
+  },
+  {
     "name": "Ladesäulenregister",
     "office": "Bundesnetzagentur",
     "description": "API des Ladesäulenregisters der Bundesnetzagentur",
