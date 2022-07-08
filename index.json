@@ -257,5 +257,12 @@
     "description": "Die Schnittstelle ermöglicht Dritten Zugriff auf die Daten von Gesetze-im-Internet.de",
     "documentationURL": "https://api.rechtsinformationsportal.de/",
     "githubURL": "https://github.com/tech4germany/rechtsinfo_api"
+  },
+  {
+    "name": "VAG API",
+    "office": "VAG",
+    "description": "Web-API für Echtzeitinformationen der VAG",
+    "documentationURL": "https://bundesapi.github.io/vag-api/",
+    "githubURL": "https://github.com/bundesAPI/vag-api"
   }
 ]
