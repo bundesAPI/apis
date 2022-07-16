@@ -13,6 +13,7 @@ jobs:
         with:
           node-version: 16
           cache: 'npm'
+      - run: npm install
       - name: Refresh list
         run: node refresh.js
       - name: Create Pull Request if needed
