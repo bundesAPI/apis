@@ -7,13 +7,6 @@
     "githubURL": "https://github.com/bundesAPI/abfallnavi-api"
   },
   {
-    "name": "Ausbildungssuche API",
-    "office": "Bundesagentur für Arbeit",
-    "description": "Eine der größten Ausbildungsdatenbanken Deutschlands durchsuchen.",
-    "documentationURL": "https://bundesapi.github.io/ausbildungssuche-api/",
-    "githubURL": "https://github.com/bundesAPI/ausbildungssuche-api"
-  },
-  {
     "name": "Autobahn App API",
     "office": "Autobahn GmbH",
     "description": "Was passiert auf Deutschlands Bundesstraßen? API für aktuelle Verwaltungsdaten zu Baustellen, Staus und Ladestationen. Außerdem Zugang zu Verkehrsüberwachungskameras und vielen weiteren Datensätzen.",
