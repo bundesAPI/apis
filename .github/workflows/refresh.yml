@@ -1,0 +1,19 @@
+name: Refresh API list
+on:
+  schedule:
+    - cron: "0 4 * * *" # every day at 4 in the morning
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Refresh list
+        run: node refresh.js
+      - name: Create Pull Request if needed
+        id: create-pull-request
+        uses: peter-evans/create-pull-request@v4
+        with:
+          commit-message: 'update api list'
+          title: '[bot] Update API list'
+          delete-branch: true
