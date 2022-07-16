@@ -8,6 +8,11 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          cache: 'npm'
       - name: Refresh list
         run: node refresh.js
       - name: Create Pull Request if needed
