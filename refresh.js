@@ -2,20 +2,6 @@ const axios = require('axios')
 const yaml = require('js-yaml')
 const fs = require('fs/promises')
 
-const getRepoData = async (repo) => {
-  // fetch openapi spec and CNAME
-  const [{ data: rawRepoData}, { data: cnameData }] = await Promise.all([
-    axios.get(`https://raw.githubusercontent.com/bundesAPI/${repo}/main/openapi.yaml`),
-    axios.get(`https://raw.githubusercontent.com/bundesAPI/${repo}/main/CNAME`)
-  ])
-  const repoData = yaml.load(rawRepoData)
-
-  return {
-    name: repoData.info.title,
-    office: repoData.info['x-office'],
-  }
-}
-
 const main = async () => {
   // fetch repo list
   const { data } = await axios.get('https://api.github.com/users/BundesAPI/repos')
@@ -35,8 +21,6 @@ const main = async () => {
       githubURL: repo.html_url
     }
   }))
-
-  console.log(result)
 
   const overridesRaw = await fs.readFile('./overrides.json', { encoding: 'utf-8' })
   const overrides = await JSON.parse(overridesRaw)
