@@ -1,80 +1,10 @@
 [
   {
-    "name": "Abfallnavi API",
-    "office": "regio iT",
-    "description": "Zugriff auf die Termine der Müllabfuhr unterschiedlicher Kommunen.",
-    "documentationURL": "https://bundesapi.github.io/abfallnavi-api/",
-    "githubURL": "https://github.com/bundesAPI/abfallnavi-api"
-  },
-  {
-    "name": "Ausbildungssuche API",
-    "office": "Bundesagentur für Arbeit",
-    "description": "Eine der größten Ausbildungsdatenbanken Deutschlands durchsuchen.",
-    "documentationURL": "https://bundesapi.github.io/ausbildungssuche-api/",
-    "githubURL": "https://github.com/bundesAPI/ausbildungssuche-api"
-  },
-  {
-    "name": "Autobahn App API",
-    "office": "Autobahn GmbH",
-    "description": "Was passiert auf Deutschlands Bundesstraßen? API für aktuelle Verwaltungsdaten zu Baustellen, Staus und Ladestationen. Außerdem Zugang zu Verkehrsüberwachungskameras und vielen weiteren Datensätzen.",
-    "documentationURL": "https://autobahn.api.bund.dev/",
-    "githubURL": "https://github.com/bundesAPI/autobahn-api"
-  },
-  {
-    "name": "Berufssprachkurssuche API",
-    "office": "Bundesagentur für Arbeit",
-    "description": "Eine der größten Berufssprachkursdatenbanken Deutschlands durchsuchen.",
-    "documentationURL": "https://bundesapi.github.io/berufssprachkurssuche-api/",
-    "githubURL": "https://github.com/bundesAPI/berufssprachkurssuche-api"
-  },
-  {
-    "name": "Bundeshaushalt API",
-    "office": "Bundesministerium der Finanzen",
-    "description": "API Beschreibung von Bundeshaushalt Digital",
-    "documentationURL": null,
-    "githubURL": "https://github.com/bundesAPI/bundeshaushalt-api"
-  },
-  {
-    "name": "Bundesrat: Live Informationen",
-    "office": "Bundesrat",
-    "description": "Aktuelle Informationen aus dem deutschen Bundesrat.",
-    "documentationURL": "https://bundesrat.api.bund.dev",
-    "githubURL": "https://github.com/bundesAPI/bundesrat-api"
-  },
-  {
-    "name": "Bundestag: Live Informationen",
-    "office": "Bundestag",
-    "description": "Aktuelle Informationen aus dem deutschen Bundestag.",
-    "documentationURL": "https://bundestag.api.bund.dev",
-    "githubURL": "https://github.com/bundesAPI/bundestag-api"
-  },
-  {
-    "name": "Bundestag: Lobbyregister API",
-    "office": "Deutscher Bundestag",
-    "description": "API des Deutschen Bundestags zum Lobbyregister für die Interessenvertretung gegenüber dem Deutschen Bundestag und der Bundesregierung.",
-    "documentationURL": null,
-    "githubURL": "https://github.com/bundesAPI/bundestag-lobbyregister-api"
-  },
-  {
-    "name": "Coachingangebote API",
-    "office": "Bundesagentur für Arbeit",
-    "description": "Eine der größten Datenbanken zu Coaching-/Aktivierungsmaßnahmen Deutschlands durchsuchen.",
-    "documentationURL": "https://bundesapi.github.io/coachingangebote-api/",
-    "githubURL": "https://github.com/bundesAPI/coachingangebote-api"
-  },
-  {
-    "name": "Dashboard Deutschland API",
-    "office": "Statistisches Bundesamt",
-    "description": "Statistische Daten des DESTATIS Deutschland Deutschland per API abrufen.",
-    "documentationURL": "https://bundesapi.github.io/dashboard-deutschland-api/",
-    "githubURL": "https://github.com/bundesAPI/dashboard-deutschland-api"
-  },
-  {
-    "name": "Destatis-API",
-    "office": "Statistisches Bundesamt",
-    "description": "Statistische Daten des DESTATIS via restful API abrufen.",
-    "documentationURL": "https://destatis.api.bund.dev/",
-    "githubURL": "https://github.com/bundesAPI/destatis-api"
+    "name": "Tagesschau API",
+    "office": "ARD",
+    "description": "Dokumentation zur API der Tagesschau",
+    "documentationURL": "https://bundesapi.github.io/tagesschau-api/",
+    "githubURL": "https://github.com/bundesAPI/tagesschau-api"    
   },
   {
     "name": "DIP Bundestag API",
@@ -84,19 +14,82 @@
     "githubURL": "https://github.com/bundesAPI/dip-bundestag-api"
   },
   {
-    "name": "DWD App API",
-    "office": "Deutscher Wetterdienst",
-    "description": "Aktuelle Wetterdaten von allen Deutschen Wetterstationen",
-    "documentationURL": "https://dwd.api.bund.dev/",
-    "githubURL": "https://github.com/bundesAPI/dwd-api"
+    "name": "Bundestag Lobbyregister API",
+    "office": "Deutscher Bundestag",
+    "description": "API des Deutschen Bundestags zum Lobbyregister für die Interessenvertretung gegenüber dem Deutschen Bundestag und der Bundesregierung.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/bundestag-lobbyregister-api"
   },
   {
-    "name": "Eco-Visio API",
-    "office": "Eco-Counter",
-    "description": "API zum Eco-Visio-Dashboard von Eco-Counter",
-    "documentationURL": null,
-    "githubURL": "https://github.com/bundesAPI/eco-visio-api"
+    "name": "Bundestag Live Informationen",
+    "office": "Deutscher Bundestag",
+    "description": "Aktuelle Informationen aus dem deutschen Bundestag.",
+    "documentationURL": "https://bundestag.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/bundestag-api"
   },
+  {
+    "name": "Bundesrat Live Informationen",
+    "office": "Bundesrat",
+    "description": "Aktuelle Informationen aus dem deutschen Bundesrat.",
+    "documentationURL": "https://bundesrat.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/bundesrat-api"
+  },
+  {
+    "name": "Bundeshaushalt API",
+    "office": "Bundesministerium der Finanzen",
+    "description": "API Beschreibung von Bundeshaushalt Digital.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/bundeshaushalt-api"
+  }, 
+  {
+    "name": "Rechtsinformationsportal",
+    "office": "Bundesministerium der Justiz und für Verbraucherschutz",
+    "description": "Die Schnittstelle ermöglicht Dritten Zugriff auf die Daten von Gesetze-im-Internet.de",
+    "documentationURL": "https://api.rechtsinformationsportal.de/",
+    "githubURL": "https://github.com/tech4germany/rechtsinfo_api"
+  },
+  {
+    "name": "Jobsuche API",
+    "office": "Bundesagentur für Arbeit",
+    "description": "Die größte Stellendatenbank Deutschlands durchsuchen, Details zu Stellenanzeigen und Informationen über Arbeitgeber abrufen.",
+    "documentationURL": "https://jobsuche.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/jobsuche-api"
+  },
+  {
+    "name": "Weiterbildungssuche API",
+    "office": "Bundesagentur für Arbeit",
+    "description": "Eine der größten Weiterbildungsdatenbanken Deutschlands durchsuchen.",
+    "documentationURL": "https://bundesapi.github.io/weiterbildungssuche-api/",
+    "githubURL": "https://github.com/bundesAPI/weiterbildungssuche-api"
+  },
+  {
+    "name": "Ausbildungssuche API",
+    "office": "Bundesagentur für Arbeit",
+    "description": "Eine der größten Ausbildungsdatenbanken Deutschlands durchsuchen.",
+    "documentationURL": "https://bundesapi.github.io/ausbildungssuche-api/",
+    "githubURL": "https://github.com/bundesAPI/ausbildungssuche-api"
+  },
+  {
+    "name": "Studiensuche API",
+    "office": "Bundesagentur für Arbeit",
+    "description": "Eine der größten Datenbanken für Studienangebote in Deutschland durchsuchen.",
+    "documentationURL": "https://bundesapi.github.io/studiensuche-api/",
+    "githubURL": "https://github.com/bundesAPI/studiensuche-api"
+  },
+  {
+    "name": "Coachingangebote API",
+    "office": "Bundesagentur für Arbeit",
+    "description": "Eine der größten Datenbanken zu Coaching-/Aktivierungsmaßnahmen Deutschlands durchsuchen.",
+    "documentationURL": "https://bundesapi.github.io/coachingangebote-api/",
+    "githubURL": "https://github.com/bundesAPI/coachingangebote-api"
+  },
+  {
+    "name": "Berufssprachkurssuche API",
+    "office": "Bundesagentur für Arbeit",
+    "description": "Eine der größten Berufssprachkursdatenbanken Deutschlands durchsuchen.",
+    "documentationURL": "https://bundesapi.github.io/berufssprachkurssuche-api/",
+    "githubURL": "https://github.com/bundesAPI/berufssprachkurssuche-api"
+  },    
   {
     "name": "Entgeltatlas API",
     "office": "Bundesagentur für Arbeit",
@@ -104,26 +97,124 @@
     "documentationURL": "https://bundesapi.github.io/entgeltatlas-api/",
     "githubURL": "https://github.com/bundesAPI/entgeltatlas-api"
   },
+    {
+    "name": "Ladesäulenregister",
+    "office": "Bundesnetzagentur",
+    "description": "API des Ladesäulenregisters der Bundesnetzagentur",
+    "documentationURL": "https://ladestationen.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/ladestationen-api"
+  },  
   {
-    "name": "Feiertage API",
-    "office": "Wikipedia",
-    "description": "Zugriff auf den Feiertage Webservice https://feiertage-api.de/.",
-    "documentationURL": null,
-    "githubURL": "https://github.com/bundesAPI/feiertage-api"
+    "name": "SMARD API",
+    "office": "Bundesnetzagentur",
+    "description": "Zugriff auf Strommarktdaten der Bundesnetzagentur.",
+    "documentationURL": "https://smard.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/smard-api"
   },
   {
-    "name": "Hilfsmittel-API",
-    "office": "Spitzenverband GKV",
-    "description": "API des GKV-Spitzenverbands zu allen Hilfsmitteln, die unter die Leistungspflicht der Kassen fallen.",
-    "documentationURL": null,
-    "githubURL": "https://github.com/bundesAPI/hilfsmittel-api"
+    "name": "DESTATIS API",
+    "office": "Statistisches Bundesamt",
+    "description": "Statistische Daten des DESTATIS via restful API abrufen.",
+    "documentationURL": "https://destatis.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/destatis-api"
   },
+  {
+    "name": "Dashboard Deutschland API",
+    "office": "Statistisches Bundesamt",
+    "description": "Statistische Daten des DESTATIS Deutschland Deutschland per API abrufen.",
+    "documentationURL": "https://bundesapi.github.io/dashboard-deutschland-api/",
+    "githubURL": "https://github.com/bundesAPI/dashboard-deutschland-api"
+  },    
+  {
+    "name": "NINA API",
+    "office": "Bundesamt für Bevölkerungsschutz",
+    "description": "Erhalten Sie wichtige Warnmeldungen des Bevölkerungsschutzes für Gefahrenlagen wie zum Beispiel Gefahrstoffausbreitung oder Unwetter per Programmierschnittstelle.",
+    "documentationURL": "https://nina.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/nina-api"
+  },  
+  {
+    "name": "ODL-Info API",
+    "office": "Bundesamt für Strahlenschutz",
+    "description": "Daten zur radioaktiven Belastung in Deutschland.",
+    "documentationURL": "https://strahlenschutz.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/strahlenschutz-api"
+  },  
+  {
+    "name": "Reisewarnungen OpenData Schnittstelle",
+    "office": "Auswärtiges Amt",
+    "description": "Zugriff auf Reisewarnungen des Auswärtigen Amtes im Rahmen der OpenData Initiative.",
+    "documentationURL": "https://travelwarning.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/travelwarning-api"
+  },
+  {
+    "name": "Luftqualität",
+    "office": "Umweltbundesamt",
+    "description": "Schnittstellen der unterschiedlichen Visualisierungen der Luftdaten-Seite des Umweltbundesamtes.",
+    "documentationURL": "https://luftqualitaet.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/luftqualitaet-api"
+  },  
+  {
+    "name": "Meeresumweltdatenbank (MUDAB) 1.0.0",
+    "office": "Umweltbundesamt",
+    "description": "Meeres-Monitoringdaten von Küstenbundesländern und Forschungseinrichtungen.",
+    "documentationURL": "https://mudab.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/mudab-api"
+  },
+  {
+    "name": "Lebensmittelwarnungen API",
+    "office": "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit",
+    "description": "Liste aller Lebensmittel und Produktwarnungen.",
+    "documentationURL": "https://lebensmittelwarnung.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/lebensmittelwarnung-api"
+  },
+  {
+    "name": "Pflanzenschutzmittelzulassungen API",
+    "office": "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit",
+    "description": "Informationen über die in Deutschland zugelassenen Pflanzenschutzmittel.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/pflanzenschutzmittelzulassung-api"
+  },
+  {
+    "name": "Einfuhrzoll API",
+    "office": "Bundeszollverwaltung",
+    "description": "API zum Abfragen von Importzöllen und Wechselkursen.",
+    "documentationURL": "https://zoll.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/zoll-api"
+  },  
   {
     "name": "Hochwasserzentralen API",
     "office": "LfU & LUBW",
     "description": "Länderübergreifendes Hochwasserportal (LHP) ",
     "documentationURL": "https://bundesapi.github.io/hochwasserzentralen-api/",
     "githubURL": "https://github.com/bundesAPI/hochwasserzentralen-api"
+  }, 
+  {
+    "name": "Handelsregister",
+    "office": "Landesjustizverwaltung Nordrhein-Westfalen im Auftrag aller Länder der Bundesrepublik Deutschland",
+    "description": "API zum Abruf von allgemeinen Unternehmensinformationen über jedes Unternehmen im Handelsregister.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/handelsregister"
+  },
+  {
+    "name": "Autobahn App API",
+    "office": "Autobahn GmbH",
+    "description": "Was passiert auf Deutschlands Bundesstraßen? API für aktuelle Verwaltungsdaten zu Baustellen, Staus und Ladestationen. Außerdem Zugang zu Verkehrsüberwachungskameras und vielen weiteren Datensätzen.",
+    "documentationURL": "https://autobahn.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/autobahn-api"
+  },
+  {
+    "name": "DWD App API",
+    "office": "Deutscher Wetterdienst",
+    "description": "Aktuelle Wetterdaten von allen Deutschen Wetterstationen",
+    "documentationURL": "https://dwd.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/dwd-api"
+  },    
+  {
+    "name": "Corona Risikogebiete API",
+    "office": "Robert Koch Institut",
+    "description": "Aktuelle Corona Risikogebietsinformationen als API.",
+    "documentationURL": "https://risikogebiete.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/risikogebiete-api"
   },
   {
     "name": "Interpol Notices API",
@@ -133,31 +224,45 @@
     "githubURL": "https://github.com/bundesAPI/interpol-api"
   },
   {
-    "name": "Jobsuche API",
-    "office": "Bundesagentur für Arbeit",
-    "description": "Die größte Stellendatenbank Deutschlands durchsuchen, Details zu Stellenanzeigen und Informationen über Arbeitgeber abrufen.",
-    "documentationURL": "https://jobsuche.api.bund.dev/",
-    "githubURL": "https://github.com/bundesAPI/jobsuche-api"
+    "name": "Polizei Brandenburg API",
+    "office": "Polizei Brandenburg",
+    "description": "Polizei Brandenburg Nachrichten, Hochwasser-, Verkehrs- und Waldbrandwarnungen.",
+    "documentationURL": "https://polizei.brandenburg.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/polizei-brandenburg-api"
   },
   {
-    "name": "Ladesäulenregister",
-    "office": "Bundesnetzagentur",
-    "description": "API des Ladesäulenregisters der Bundesnetzagentur",
-    "documentationURL": "https://ladestationen.api.bund.dev/",
-    "githubURL": "https://github.com/bundesAPI/ladestationen-api"
+    "name": "FIT-Connect",
+    "office": "FITKO",
+    "description": "Die Schnittstelle ermöglicht Ihnen, Anträge und Berichte aus Ihren eigenen Systemen in die unterschiedlichen Systeme der Verwaltung zu übermitteln.",
+    "documentationURL": "https://fit-connect.fitko.de/",
+    "githubURL": "https://git.fitko.de/fit-connect"
+  },    
+  {
+    "name": "VAG API",
+    "office": "VAG",
+    "description": "Web-API für Echtzeitinformationen der VAG",
+    "documentationURL": "https://bundesapi.github.io/vag-api/",
+    "githubURL": "https://github.com/bundesAPI/vag-api"
   },
   {
-    "name": "Lebensmittelwarnungen API",
-    "office": "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit",
-    "description": "Liste aller Lebensmittel und Produktwarnungen.",
-    "documentationURL": "https://lebensmittelwarnung.api.bund.dev/",
-    "githubURL": "https://github.com/bundesAPI/lebensmittelwarnung-api"
+    "name": "Eco-Visio API",
+    "office": "Eco-Counter",
+    "description": "API zu Eco-Visio von Eco-Counter.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/eco-visio-api"
   },
   {
-    "name": "Luftqualität",
-    "office": "Umweltbundesamt",
-    "description": "Schnittstellen der unterschiedlichen Visualisierungen der Luftdaten-Seite des Umweltbundesamtes.",
-    "documentationURL": "https://luftqualitaet.api.bund.dev",
-    "githubURL": "https://github.com/bundesAPI/luftqualitaet-api"
-  }
+    "name": "Abfallnavi API",
+    "office": "regio iT",
+    "description": "Zugriff auf die Termine der Müllabfuhr unterschiedlicher Kommunen.",
+    "documentationURL": "https://bundesapi.github.io/abfallnavi-api/",
+    "githubURL": "https://github.com/bundesAPI/abfallnavi-api"
+  },  
+  {
+    "name": "Feiertage API",
+    "office": "Wikipedia",
+    "description": "Zugriff auf den Feiertage Webservice https://feiertage-api.de/ .",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/feiertage-api"
+  }  
 ]
