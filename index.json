@@ -159,5 +159,95 @@
     "description": "Schnittstellen der unterschiedlichen Visualisierungen der Luftdaten-Seite des Umweltbundesamtes.",
     "documentationURL": "https://luftqualitaet.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/luftqualitaet-api"
+  },
+  {
+    "name": "Marktdatenstammregister API",
+    "description": null,
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/marktstammdaten-api"
+  },
+  {
+    "name": "Umweltbundesamt: Meeresumweltdatenbank (MUDAB)",
+    "description": " Meeres-Monitoringdaten von Küstenbundesländern und Forschungseinrichtungen",
+    "documentationURL": "https://mudab.api.bund.dev/",
+    "githubURL": "https://github.com/bundesAPI/mudab-api"
+  },
+  {
+    "name": "Bundesamt für Bevölkerungsschutz: NINA API",
+    "description": "Erhalten Sie wichtige Warnmeldungen des Bevölkerungsschutzes für Gefahrenlagen wie zum Beispiel Gefahrstoffausbreitung oder Unwetter per Programmierschnittstelle.",
+    "documentationURL": "https://nina.api.bund.dev/",
+    "githubURL": "https://github.com/bundesAPI/nina-api"
+  },
+  {
+    "name": "Wasserstraßen- und Schifffahrtsverwaltung: Pegel-Online API",
+    "description": null,
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/pegel-online-api"
+  },
+  {
+    "name": "ORDS generated API for api-v1",
+    "description": null,
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/pflanzenschutzmittelzulassung-api"
+  },
+  {
+    "name": "Polizei Brandenburg API",
+    "description": "API der Mobile APP der Polizei Brandenburg",
+    "documentationURL": "https://polizei.brandenburg.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/polizei-brandenburg-api"
+  },
+  {
+    "name": "Robert Koch Institut: Corona Risikogebiete API",
+    "description": "RKI covid risk areas",
+    "documentationURL": "https://risikogebiete.api.bund.dev/",
+    "githubURL": "https://github.com/bundesAPI/risikogebiete-api"
+  },
+  {
+    "name": "Bundesnetzagentur Strommarktdaten",
+    "description": null,
+    "documentationURL": "https://smard.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/smard-api"
+  },
+  {
+    "name": "ODL-Info API",
+    "description": null,
+    "documentationURL": "https://strahlenschutz.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/strahlenschutz-api"
+  },
+  {
+    "name": "Arbeitsagentur Studiensuche API",
+    "description": "API zur Studiensuche der Bundesagentur für Arbeit",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/studiensuche-api"
+  },
+  {
+    "name": "Tagesschau API",
+    "description": "Dokumentation zur API der Tagesschau",
+    "documentationURL": "",
+    "githubURL": "https://github.com/bundesAPI/tagesschau-api"
+  },
+  {
+    "name": "Auswärtiges Amt: Reisewarnungen OpenData Schnittstelle",
+    "description": "Auswärtiges Amt OpenData Schnittstelle (Per IFG: https://fragdenstaat.de/anfrage/schnittstellendokumentation/#nachricht-437155)",
+    "documentationURL": "https://travelwarning.api.bund.dev/",
+    "githubURL": "https://github.com/bundesAPI/travelwarning-api"
+  },
+  {
+    "name": "VAG API",
+    "description": "API zum VAG Abfahrtsmonitor mit Echtzeitprognose",
+    "documentationURL": "",
+    "githubURL": "https://github.com/bundesAPI/vag-api"
+  },
+  {
+    "name": "Arbeitsagentur Weiterbildungssuche API",
+    "description": "API zur Weiterbildungssuche der Bundesagentur für Arbeit",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/weiterbildungssuche-api"
+  },
+  {
+    "name": "Einfuhrzoll API",
+    "description": null,
+    "documentationURL": "https://zoll.api.bund.dev/",
+    "githubURL": "https://github.com/bundesAPI/zoll-api"
   }
 ]
