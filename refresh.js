@@ -38,6 +38,10 @@ const main = async () => {
   const overridesRaw = await fs.readFile('./overrides.json', { encoding: 'utf-8' })
   const overrides = await JSON.parse(overridesRaw)
 
+  const externalsRaw = await fs.readFile('./externals.json', { encoding: 'utf-8' })
+  const externals = await JSON.parse(externalsRaw)
+
+
   // upsert list
   const newList = entries.map((repo) => {
     const overrideIndex = overrides.findIndex((e) => e.githubURL === repo.githubURL)
@@ -50,7 +54,7 @@ const main = async () => {
   })
 
   // write list back
-  await fs.writeFile('./index.json', JSON.stringify(newList, null, 2), { encoding: 'utf-8' })
+  await fs.writeFile('./index.json', JSON.stringify([...newList, ...externals], null, 2), { encoding: 'utf-8' })
 }
 
 main()
