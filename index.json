@@ -112,6 +112,13 @@
     "githubURL": "https://github.com/bundesAPI/smard-api"
   },
   {
+    "name": "DiGA API",
+    "office": "Bundesinstitut für Arzneimittel und Medizinprodukte",
+    "description": "API zum DiGA-Verzeichnis https://diga.bfarm.de/de/ ",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/diga-api"    
+  },
+  {
     "name": "DESTATIS API",
     "office": "Statistisches Bundesamt",
     "description": "Statistische Daten des DESTATIS via restful API abrufen.",
