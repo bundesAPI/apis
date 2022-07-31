@@ -77,6 +77,12 @@
     "githubURL": "https://github.com/bundesAPI/destatis-api"
   },
   {
+    "name": "DiGA API",
+    "description": "Dokumentation der DiGA API",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/diga-api"
+  },
+  {
     "name": "DIP Bundestag API",
     "office": "Deutscher Bundestag",
     "description": "Über diese API ist ein lesender Zugriff auf die Entitäten von DIP (Vorgänge und Vorgangspositionen, Aktivitäten, Personen sowie Drucksachen und Plenarprotokolle) möglich.",
