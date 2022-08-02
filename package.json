@@ -1,0 +1,23 @@
+{
+  "name": "apis",
+  "version": "1.0.0",
+  "description": "This repository hosts the list of documented APIs as JSON (in `index.json`). It can be accessed at https://api.bund.dev/.",
+  "main": "refresh.js",
+  "scripts": {
+    "refresh": "node refresh.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bundesAPI/apis.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bundesAPI/apis/issues"
+  },
+  "homepage": "https://api.bund.dev",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "js-yaml": "^4.1.0"
+  }
+}
