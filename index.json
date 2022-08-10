@@ -8,6 +8,7 @@
   },
   {
     "name": "Ausbildungssuche API",
+    "parentOrganization": "Bundesministerium für Arbeit und Soziales",
     "office": "Bundesagentur für Arbeit",
     "description": "Eine der größten Ausbildungsdatenbanken Deutschlands durchsuchen.",
     "documentationURL": "https://bundesapi.github.io/ausbildungssuche-api/",
@@ -15,6 +16,7 @@
   },
   {
     "name": "Autobahn App API",
+    "parentOrganization": "Bundesministeriums für Digitales und Verkehr",
     "office": "Autobahn GmbH",
     "description": "Was passiert auf Deutschlands Bundesstraßen? API für aktuelle Verwaltungsdaten zu Baustellen, Staus und Ladestationen. Außerdem Zugang zu Verkehrsüberwachungskameras und vielen weiteren Datensätzen.",
     "documentationURL": "https://autobahn.api.bund.dev",
@@ -22,6 +24,7 @@
   },
   {
     "name": "Berufssprachkurssuche API",
+    "parentOrganization": "Bundesministerium für Arbeit und Soziales",
     "office": "Bundesagentur für Arbeit",
     "description": "Eine der größten Berufssprachkursdatenbanken Deutschlands durchsuchen.",
     "documentationURL": "https://bundesapi.github.io/berufssprachkurssuche-api/",
@@ -29,13 +32,15 @@
   },
   {
     "name": "Bundeshaushalt API",
+    "parentOrganization": "Bundesministerium der Finanzen",
     "office": "Bundesministerium der Finanzen",
     "description": "API Beschreibung von Bundeshaushalt Digital.",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/bundeshaushalt-api"
   },
   {
-    "name": "Bundesrat Live Informationen",
+    "name": "Bundesrat Live Informationen", 
+    "parentOrganization": "Bundesrat",
     "office": "Bundesrat",
     "description": "Aktuelle Informationen aus dem deutschen Bundesrat.",
     "documentationURL": "https://bundesrat.api.bund.dev",
@@ -43,6 +48,7 @@
   },
   {
     "name": "Bundestag Live Informationen",
+    "parentOrganization": "Deutscher Bundestag",
     "office": "Deutscher Bundestag",
     "description": "Aktuelle Informationen aus dem deutschen Bundestag.",
     "documentationURL": "https://bundestag.api.bund.dev",
@@ -50,27 +56,31 @@
   },
   {
     "name": "Bundestag Lobbyregister API",
+    "parentOrganization": "Deutscher Bundestag",
     "office": "Deutscher Bundestag",
     "description": "API des Deutschen Bundestags zum Lobbyregister für die Interessenvertretung gegenüber dem Deutschen Bundestag und der Bundesregierung.",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/bundestag-lobbyregister-api"
   },
   {
-    "name": "Coachingangebote API",
+    "name": "Coachingangebote API",  
+    "parentOrganization": "Bundesministerium für Arbeit und Soziales",
     "office": "Bundesagentur für Arbeit",
     "description": "Eine der größten Datenbanken zu Coaching-/Aktivierungsmaßnahmen Deutschlands durchsuchen.",
     "documentationURL": "https://bundesapi.github.io/coachingangebote-api/",
     "githubURL": "https://github.com/bundesAPI/coachingangebote-api"
   },
   {
-    "name": "Dashboard Deutschland API",
+    "name": "Dashboard Deutschland API", 
+    "parentOrganization": "Bundesministerium des Innern und für Heimat",
     "office": "Statistisches Bundesamt",
     "description": "Statistische Daten des DESTATIS Deutschland Deutschland per API abrufen.",
     "documentationURL": "https://bundesapi.github.io/dashboard-deutschland-api/",
     "githubURL": "https://github.com/bundesAPI/dashboard-deutschland-api"
   },
   {
-    "name": "DESTATIS API",
+    "name": "DESTATIS API", 
+    "parentOrganization": "Bundesministerium des Innern und für Heimat",
     "office": "Statistisches Bundesamt",
     "description": "Statistische Daten des DESTATIS via restful API abrufen.",
     "documentationURL": "https://destatis.api.bund.dev",
@@ -78,13 +88,15 @@
   },
   {
     "name": "DiGA API",
+    "parentOrganization": "Bundesministerium für Gesundheit",
     "office": "Bundesinstitut für Arzneimittel und Medizinprodukte",
     "description": "API zum DiGA-Verzeichnis https://diga.bfarm.de/de/ ",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/diga-api"
   },
   {
-    "name": "DIP Bundestag API",
+    "name": "DIP Bundestag API", 
+    "parentOrganization": "Deutscher Bundestag",
     "office": "Deutscher Bundestag",
     "description": "Über diese API ist ein lesender Zugriff auf die Entitäten von DIP (Vorgänge und Vorgangspositionen, Aktivitäten, Personen sowie Drucksachen und Plenarprotokolle) möglich.",
     "documentationURL": "https://dip.bundestag.de/%C3%BCber-dip/hilfe/api",
@@ -92,6 +104,7 @@
   },
   {
     "name": "DWD App API",
+    "parentOrganization": "Bundesministeriums für Digitales und Verkehr",
     "office": "Deutscher Wetterdienst",
     "description": "Aktuelle Wetterdaten von allen Deutschen Wetterstationen",
     "documentationURL": "https://dwd.api.bund.dev",
@@ -106,6 +119,7 @@
   },
   {
     "name": "Entgeltatlas API",
+    "parentOrganization": "Bundesministerium für Arbeit und Soziales",
     "office": "Bundesagentur für Arbeit",
     "description": "Eine Datenbank zu Entgelten für Berufstätigkeiten in Deutschland durchsuchen.",
     "documentationURL": "https://bundesapi.github.io/entgeltatlas-api/",
@@ -120,14 +134,19 @@
   },
   {
     "name": "Hilfsmittel-API",
+    "parentOrganization": "Bundesministerium für Gesundheit",
+    "office": "GKV-Spitzenverband,",
     "description": null,
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/hilfsmittel-api"
   },
   {
     "name": "Hochwasserzentralen API",
-    "office": "LfU & LUBW",
-    "description": "Länderübergreifendes Hochwasserportal (LHP) ",
+    "parentOrganization": "Bayerisches Staatsministerium für Umwelt und Verbraucherschutz",
+    "office": "Bayerisches Landesamt für Umwelt",
+    "parentOrganization": "Ministerium für Umwelt, Klima und Energiewirtschaft Baden-Württemberg",
+    "office": "Landesanstalt für Umwelt Baden-Württemberg",
+    "description": "Länderübergreifendes Hochwasserportal (LHP)",
     "documentationURL": "https://bundesapi.github.io/hochwasserzentralen-api/",
     "githubURL": "https://github.com/bundesAPI/hochwasserzentralen-api"
   },
@@ -139,7 +158,8 @@
     "githubURL": "https://github.com/bundesAPI/interpol-api"
   },
   {
-    "name": "Jobsuche API",
+    "name": "Jobsuche API", 
+    "parentOrganization": "Bundesministerium für Arbeit und Soziales",
     "office": "Bundesagentur für Arbeit",
     "description": "Die größte Stellendatenbank Deutschlands durchsuchen, Details zu Stellenanzeigen und Informationen über Arbeitgeber abrufen.",
     "documentationURL": "https://jobsuche.api.bund.dev",
@@ -147,6 +167,7 @@
   },
   {
     "name": "Ladesäulenregister",
+    "parentOrganization": "Bundesministerium für Wirtschaft und Klimaschutz",
     "office": "Bundesnetzagentur",
     "description": "API des Ladesäulenregisters der Bundesnetzagentur",
     "documentationURL": "https://ladestationen.api.bund.dev",
@@ -154,6 +175,7 @@
   },
   {
     "name": "Lebensmittelwarnungen API",
+    "parentOrganization": "Bundesministerium für Ernährung und Landwirtschaft",
     "office": "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit",
     "description": "Liste aller Lebensmittel und Produktwarnungen.",
     "documentationURL": "https://lebensmittelwarnung.api.bund.dev",
@@ -161,6 +183,7 @@
   },
   {
     "name": "Luftqualität",
+    "parentOrganization": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
     "office": "Umweltbundesamt",
     "description": "Schnittstellen der unterschiedlichen Visualisierungen der Luftdaten-Seite des Umweltbundesamtes.",
     "documentationURL": "https://luftqualitaet.api.bund.dev",
@@ -168,12 +191,15 @@
   },
   {
     "name": "Marktdatenstammregister API",
-    "description": null,
-    "documentationURL": null,
+    "parentOrganization": "Bundesministerium für Wirtschaft und Klimaschutz",
+    "office": "Bundesnetzagentur",
+    "description": "Das Marktstammdatenregister ist das Register für den deutschen Strom- und Gasmarkt, abgekürzt MaStR.",
+    "documentationURL": "https://www.marktstammdatenregister.de/MaStR",
     "githubURL": "https://github.com/bundesAPI/marktstammdaten-api"
   },
   {
     "name": "Meeresumweltdatenbank (MUDAB) 1.0.0",
+    "parentOrganization": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
     "office": "Umweltbundesamt",
     "description": "Meeres-Monitoringdaten von Küstenbundesländern und Forschungseinrichtungen.",
     "documentationURL": "https://mudab.api.bund.dev",
@@ -181,19 +207,23 @@
   },
   {
     "name": "NINA API",
-    "office": "Bundesamt für Bevölkerungsschutz",
+    "parentOrganization": "Bundesministeriums des Innern und für Heimat",
+    "office": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe",
     "description": "Erhalten Sie wichtige Warnmeldungen des Bevölkerungsschutzes für Gefahrenlagen wie zum Beispiel Gefahrstoffausbreitung oder Unwetter per Programmierschnittstelle.",
     "documentationURL": "https://nina.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/nina-api"
   },
   {
     "name": "Wasserstraßen- und Schifffahrtsverwaltung: Pegel-Online API",
-    "description": null,
+    "parentOrganization": "Bundesministerium für Digitales und Verkehr", 
+    "office": "Wasserstraßen- und Schifffahrtsverwaltung des Bundes",
+    "description": "Pegelstände der Messstellen des bundesweiten Messstellennetzes der Wasserstraßen- und Schifffahrtsverwaltung des Bundes",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/pegel-online-api"
   },
   {
     "name": "Pflanzenschutzmittelzulassungen API",
+    "parentOrganization": "Bundesministerium für Ernährung und Landwirtschaft",
     "office": "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit",
     "description": "Informationen über die in Deutschland zugelassenen Pflanzenschutzmittel.",
     "documentationURL": null,
@@ -201,6 +231,7 @@
   },
   {
     "name": "Polizei Brandenburg API",
+    "parentOrganization": "Ministerium des Innern und für Kommunales des Landes Brandenburg",
     "office": "Polizei Brandenburg",
     "description": "Polizei Brandenburg Nachrichten, Hochwasser-, Verkehrs- und Waldbrandwarnungen.",
     "documentationURL": "https://polizei.brandenburg.api.bund.dev",
@@ -208,6 +239,7 @@
   },
   {
     "name": "Corona Risikogebiete API",
+    "parentOrganization": "Bundesministerium für Gesundheit",
     "office": "Robert Koch Institut",
     "description": "Aktuelle Corona Risikogebietsinformationen als API.",
     "documentationURL": "https://risikogebiete.api.bund.dev",
@@ -215,6 +247,7 @@
   },
   {
     "name": "SMARD API",
+    "parentOrganization": "Bundesministeriums für Digitales und Verkehr",
     "office": "Bundesnetzagentur",
     "description": "Zugriff auf Strommarktdaten der Bundesnetzagentur.",
     "documentationURL": "https://smard.api.bund.dev",
@@ -222,6 +255,7 @@
   },
   {
     "name": "ODL-Info API",
+    "parentOrganization": "Bundesministeriums für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
     "office": "Bundesamt für Strahlenschutz",
     "description": "Daten zur radioaktiven Belastung in Deutschland.",
     "documentationURL": "https://strahlenschutz.api.bund.dev",
@@ -229,6 +263,7 @@
   },
   {
     "name": "Studiensuche API",
+    "parentOrganization": "Bundesministerium für Arbeit und Soziales",
     "office": "Bundesagentur für Arbeit",
     "description": "Eine der größten Datenbanken für Studienangebote in Deutschland durchsuchen.",
     "documentationURL": "https://bundesapi.github.io/studiensuche-api/",
@@ -243,6 +278,7 @@
   },
   {
     "name": "Reisewarnungen OpenData Schnittstelle",
+    "parentOrganization": "Auswärtiges Amt",
     "office": "Auswärtiges Amt",
     "description": "Zugriff auf Reisewarnungen des Auswärtigen Amtes im Rahmen der OpenData Initiative.",
     "documentationURL": "https://travelwarning.api.bund.dev",
@@ -250,13 +286,15 @@
   },
   {
     "name": "VAG API",
-    "office": "VAG",
+    "parentOrganization": "Städtische Werke Nürnberg",
+    "office": "VAG Verkehrs-Aktiengesellschaft Nürnberg",
     "description": "Web-API für Echtzeitinformationen der VAG",
     "documentationURL": "https://bundesapi.github.io/vag-api/",
     "githubURL": "https://github.com/bundesAPI/vag-api"
   },
   {
     "name": "Weiterbildungssuche API",
+    "parentOrganization": "Bundesministerium für Arbeit und Soziales",
     "office": "Bundesagentur für Arbeit",
     "description": "Eine der größten Weiterbildungsdatenbanken Deutschlands durchsuchen.",
     "documentationURL": "https://bundesapi.github.io/weiterbildungssuche-api/",
@@ -264,6 +302,7 @@
   },
   {
     "name": "Einfuhrzoll API",
+    "parentOrganization": "Bundesministerium der Finanzen",
     "office": "Bundeszollverwaltung",
     "description": "API zum Abfragen von Importzöllen und Wechselkursen.",
     "documentationURL": "https://zoll.api.bund.dev",
@@ -271,6 +310,7 @@
   },
   {
     "name": "Rechtsinformationsportal",
+    "parentOrganization": "Bundesministerium der Justiz und für Verbraucherschutz",
     "office": "Bundesministerium der Justiz und für Verbraucherschutz",
     "description": "Die Schnittstelle ermöglicht Dritten Zugriff auf die Daten von Gesetze-im-Internet.de",
     "documentationURL": "https://api.rechtsinformationsportal.de/",
@@ -278,13 +318,14 @@
   },
   {
     "name": "FIT-Connect",
-    "office": "FITKO",
+    "office": "Föderale IT-Kooperation (FITKO)",
     "description": "Die Schnittstelle ermöglicht Ihnen, Anträge und Berichte aus Ihren eigenen Systemen in die unterschiedlichen Systeme der Verwaltung zu übermitteln.",
     "documentationURL": "https://fit-connect.fitko.de/",
     "githubURL": "https://git.fitko.de/fit-connect"
   },
   {
     "name": "Handelsregister",
+    "parentOrganization": "Bundesministerium der Justiz",
     "office": "Landesjustizverwaltung Nordrhein-Westfalen im Auftrag aller Länder der Bundesrepublik Deutschland",
     "description": "API zum Abruf von allgemeinen Unternehmensinformationen über jedes Unternehmen im Handelsregister.",
     "documentationURL": null,
