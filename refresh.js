@@ -18,7 +18,7 @@ const main = async () => {
     const repos = data.filter((repo) => repo.name.endsWith('-api'))
   
     const result = await Promise.all(repos.map(async (repo) => {
-      let rawOpenAPI=`https://raw.githubusercontent.com/bundesAPI/${repo.name}/main/openapi.yaml`
+      const rawOpenAPI = `https://raw.githubusercontent.com/bundesAPI/${repo.name}/main/openapi.yaml`
       const { data: rawRepoData } = await axios.get(rawOpenAPI)
       const repoData = yaml.load(rawRepoData)
   
@@ -28,7 +28,7 @@ const main = async () => {
         description: repo.description,
         documentationURL: repo.homepage,
         githubURL: repo.html_url,
-        rawOpenAPI:rawOpenAPI
+        rawOpenAPI: rawOpenAPI
       }
     }))
 
