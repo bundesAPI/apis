@@ -70,6 +70,12 @@
     "githubURL": "https://github.com/bundesAPI/dashboard-deutschland-api"
   },
   {
+    "name": "Deutsche Digitale Bibliothek REST API",
+    "description": "Deutsche Digitale Bibliothek REST API",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/ddb-api"
+  },
+  {
     "name": "DESTATIS API",
     "office": "Statistisches Bundesamt",
     "description": "Statistische Daten des DESTATIS via restful API abrufen.",
