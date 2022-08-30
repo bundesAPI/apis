@@ -28,6 +28,12 @@
     "githubURL": "https://github.com/bundesAPI/berufssprachkurssuche-api"
   },
   {
+    "name": "Arbeitsagentur Bewerberbörse API",
+    "description": "API zur Bewerberbörse der Bundesagentur für Arbeit ",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/bewerberboerse-api"
+  },
+  {
     "name": "Bundeshaushalt API",
     "office": "Bundesministerium der Finanzen",
     "description": "API Beschreibung von Bundeshaushalt Digital.",
@@ -126,8 +132,7 @@
   },
   {
     "name": "Hilfsmittel-API",
-    "office": "GKV-Spitzenverband",
-    "description": "API des GKV-Spitzenverbands zu allen Hilfsmitteln, die unter die Leistungspflicht der Kassen fallen",
+    "description": null,
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/hilfsmittel-api"
   },
@@ -175,8 +180,7 @@
   },
   {
     "name": "Marktdatenstammregister API",
-    "office": "Bundesnetzagentur",
-    "description": "Das Marktstammdatenregister ist das Register für den deutschen Strom- und Gasmarkt, abgekürzt MaStR",
+    "description": null,
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/marktstammdaten-api"
   },
@@ -196,8 +200,7 @@
   },
   {
     "name": "Wasserstraßen- und Schifffahrtsverwaltung: Pegel-Online API",
-    "office": "WSV";
-    "description": "Pegelstände der Messstellen des bundesweiten Messstellennetzes der Wasserstraßen- und Schifffahrtsverwaltung des Bundes.",
+    "description": null,
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/pegel-online-api"
   },
