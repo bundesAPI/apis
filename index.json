@@ -28,6 +28,13 @@
     "githubURL": "https://github.com/bundesAPI/berufssprachkurssuche-api"
   },
   {
+    "name": "Bewerberbörse API",
+    "office": "Bundesagentur für Arbeit",
+    "description": "API zur Bewerberbörse der Bundesagentur für Arbeit.",
+    "documentationURL": "https://bundesapi.github.io/bewerberboerse-api/",
+    "githubURL": "https://github.com/bundesAPI/bewerberboerse-api"
+  },
+  {
     "name": "Bundeshaushalt API",
     "office": "Bundesministerium der Finanzen",
     "description": "API Beschreibung von Bundeshaushalt Digital.",

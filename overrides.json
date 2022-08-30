@@ -49,6 +49,13 @@
     "githubURL": "https://github.com/tech4germany/rechtsinfo_api"
   },
   {
+    "name": "Bewerberbörse API",
+    "office": "Bundesagentur für Arbeit",
+    "description": "API zur Bewerberbörse der Bundesagentur für Arbeit.",
+    "documentationURL": "https://bundesapi.github.io/bewerberboerse-api/",
+    "githubURL": "https://github.com/bundesAPI/bewerberboerse-api"
+  },
+  {
     "name": "Jobsuche API",
     "office": "Bundesagentur für Arbeit",
     "description": "Die größte Stellendatenbank Deutschlands durchsuchen, Details zu Stellenanzeigen und Informationen über Arbeitgeber abrufen.",
@@ -271,5 +278,27 @@
     "description": "Zugriff auf den Feiertage Webservice https://feiertage-api.de/ .",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/feiertage-api"
+  },
+  {
+    "name": "Hilfsmittel-API",
+    "office": "GKV-Spitzenverband",
+    "description": "API des GKV-Spitzenverbands zu allen Hilfsmitteln, die unter die Leistungspflicht der Kassen fallen",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/hilfsmittel-api"
+  },
+  {
+    "name": "Wasserstraßen- und Schifffahrtsverwaltung: Pegel-Online API",
+    "office": "WSV",
+    "description": "Pegelstände der Messstellen des bundesweiten Messstellennetzes der Wasserstraßen- und Schifffahrtsverwaltung des Bundes.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/pegel-online-api"
+  },
+
+  {
+    "name": "Marktdatenstammregister API",
+    "office": "Bundesnetzagentur",
+    "description": "Das Marktstammdatenregister ist das Register für den deutschen Strom- und Gasmarkt, abgekürzt MaStR",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/marktstammdaten-api"
   }  
 ]
