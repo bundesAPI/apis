@@ -28,6 +28,12 @@
     "githubURL": "https://github.com/bundesAPI/berufssprachkurssuche-api"
   },
   {
+    "name": "Arbeitsagentur Bewerberbörse API",
+    "description": "API zur Bewerberbörse der Bundesagentur für Arbeit ",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/bewerberboerse-api"
+  },
+  {
     "name": "Bundeshaushalt API",
     "office": "Bundesministerium der Finanzen",
     "description": "API Beschreibung von Bundeshaushalt Digital.",
@@ -196,7 +202,7 @@
   },
   {
     "name": "Wasserstraßen- und Schifffahrtsverwaltung: Pegel-Online API",
-    "office": "WSV";
+    "office": "WSV",
     "description": "Pegelstände der Messstellen des bundesweiten Messstellennetzes der Wasserstraßen- und Schifffahrtsverwaltung des Bundes.",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/pegel-online-api"
