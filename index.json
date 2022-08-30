@@ -32,6 +32,13 @@
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/berufssprachkurssuche-api/main/openapi.yaml"
   },
   {
+    "name": "Arbeitsagentur Bewerberbörse API",
+    "description": "API zur Bewerberbörse der Bundesagentur für Arbeit ",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/bewerberboerse-api",
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bewerberboerse-api/main/openapi.yaml"
+  },
+  {
     "name": "Bundeshaushalt API",
     "office": "Bundesministerium der Finanzen",
     "description": "API Beschreibung von Bundeshaushalt Digital.",
@@ -78,6 +85,13 @@
     "documentationURL": "https://bundesapi.github.io/dashboard-deutschland-api/",
     "githubURL": "https://github.com/bundesAPI/dashboard-deutschland-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/dashboard-deutschland-api/main/openapi.yaml"
+  },
+  {
+    "name": "Deutsche Digitale Bibliothek REST API",
+    "description": "Deutsche Digitale Bibliothek REST API",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/ddb-api",
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/ddb-api/main/openapi.yaml"
   },
   {
     "name": "DESTATIS API",
