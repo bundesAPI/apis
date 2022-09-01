@@ -32,6 +32,12 @@
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/berufssprachkurssuche-api/main/openapi.yaml"
   },
   {
+    "name": "Arbeitsagentur Bewerberbörse API",
+    "description": "API zur Bewerberbörse der Bundesagentur für Arbeit ",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/bewerberboerse-api"
+  },
+  {
     "name": "Bundeshaushalt API",
     "office": "Bundesministerium der Finanzen",
     "description": "API Beschreibung von Bundeshaushalt Digital.",
@@ -78,6 +84,12 @@
     "documentationURL": "https://bundesapi.github.io/dashboard-deutschland-api/",
     "githubURL": "https://github.com/bundesAPI/dashboard-deutschland-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/dashboard-deutschland-api/main/openapi.yaml"
+  },
+  {
+    "name": "Deutsche Digitale Bibliothek REST API",
+    "description": "Deutsche Digitale Bibliothek REST API",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/ddb-api"
   },
   {
     "name": "DESTATIS API",
@@ -137,7 +149,8 @@
   },
   {
     "name": "Hilfsmittel-API",
-    "description": null,
+    "office": "GKV-Spitzenverband",
+    "description": "API des GKV-Spitzenverbands zu allen Hilfsmitteln, die unter die Leistungspflicht der Kassen fallen",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/hilfsmittel-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/hilfsmittel-api/main/openapi.yaml"
@@ -192,7 +205,8 @@
   },
   {
     "name": "Marktdatenstammregister API",
-    "description": null,
+    "office": "Bundesnetzagentur",
+    "description": "Das Marktstammdatenregister ist das Register für den deutschen Strom- und Gasmarkt, abgekürzt MaStR",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/marktstammdaten-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/marktstammdaten-api/main/openapi.yaml"
@@ -215,7 +229,8 @@
   },
   {
     "name": "Wasserstraßen- und Schifffahrtsverwaltung: Pegel-Online API",
-    "description": null,
+    "office": "WSV",
+    "description": "Pegelstände der Messstellen des bundesweiten Messstellennetzes der Wasserstraßen- und Schifffahrtsverwaltung des Bundes.",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/pegel-online-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/pegel-online-api/main/openapi.yaml"
