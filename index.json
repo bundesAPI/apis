@@ -32,18 +32,12 @@
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/berufssprachkurssuche-api/main/openapi.yaml"
   },
   {
-    "name": "Arbeitsagentur Bewerberbörse API",
-    "description": "API zur Bewerberbörse der Bundesagentur für Arbeit ",
-    "documentationURL": null,
-    "githubURL": "https://github.com/bundesAPI/bewerberboerse-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bewerberboerse-api/main/openapi.yaml"
-  },
-  {
     "name": "Bewerberbörse API",
     "office": "Bundesagentur für Arbeit",
     "description": "API zur Bewerberbörse der Bundesagentur für Arbeit.",
     "documentationURL": "https://bundesapi.github.io/bewerberboerse-api/",
-    "githubURL": "https://github.com/bundesAPI/bewerberboerse-api"
+    "githubURL": "https://github.com/bundesAPI/bewerberboerse-api",
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bewerberboerse-api/main/openapi.yaml"
   },
   {
     "name": "Bundeshaushalt API",
