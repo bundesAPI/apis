@@ -168,6 +168,13 @@
     "githubURL": "https://github.com/bundesAPI/luftqualitaet-api"
   },  
   {
+    "name": "Deutsche Digitale Bibliothek REST API",
+    "office": "Stiftung Preußischer Kulturbesitz",
+    "description": "Deutsche Digitale Bibliothek REST API",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/ddb-api",    
+  },
+  {
     "name": "Meeresumweltdatenbank (MUDAB) 1.0.0",
     "office": "Umweltbundesamt",
     "description": "Meeres-Monitoringdaten von Küstenbundesländern und Forschungseinrichtungen.",
