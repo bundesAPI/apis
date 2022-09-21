@@ -1,8 +1,8 @@
 openapi: "3.0.0"
 info:
   version: "1.0.0"
-  title: "API Liste"
-  description: "Sammlung der APIs der Bundesstelle für Open Data"
+  title: "API List"
+  description: "Collection of APIs of the Bundesstelle für Open Data"
   contact:
     name: "Bundesstelle für Open Data"
     url: "https://bund.dev/"
@@ -26,7 +26,7 @@ paths:
                 $ref: "#/components/schemas/responses"
 
       summary: "API"
-      description: "API Liste"
+      description: "API List"
       tags:
         - api
 
@@ -40,22 +40,22 @@ components:
           name:
             type: string
             example: Abfallnavi API
-            description: Name der API
+            description: Name of the API
           office:
             type: string
             nullable: true
             example: regio iT
-            description: Zugehörige verantwortliche Behörde oder Unternehmen/Person
+            description: Related responsible authority or company/person
           description:
             type: string
             nullable: true
             example: Zugriff auf die Termine der Müllabfuhr unterschiedlicher Kommunen.
-            description: Kurzbeschreibung
+            description: Short description
           documentationURL:
             type: string
             nullable: true
             example: https://bundesapi.github.io/abfallnavi-api/
-            description: Öffentliche Dokumentations-URL
+            description: Public documentation URL
           githubURL:
             type: string
             nullable: true
@@ -65,4 +65,4 @@ components:
             type: string
             nullable: true
             example: https://raw.githubusercontent.com/bundesAPI/abfallnavi-api/main/openapi.yaml
-            description: raw OpenAPI-Spezifikation
+            description: raw OpenAPI specification
