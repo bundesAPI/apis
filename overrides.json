@@ -172,7 +172,7 @@
     "office": "Stiftung Preußischer Kulturbesitz",
     "description": "Deutsche Digitale Bibliothek REST API",
     "documentationURL": null,
-    "githubURL": "https://github.com/bundesAPI/ddb-api",    
+    "githubURL": "https://github.com/bundesAPI/ddb-api"    
   },
   {
     "name": "Meeresumweltdatenbank (MUDAB) 1.0.0",
