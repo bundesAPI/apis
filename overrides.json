@@ -294,14 +294,6 @@
     "githubURL": "https://github.com/bundesAPI/hilfsmittel-api"
   },
   {
-    "name": "Wasserstraßen- und Schifffahrtsverwaltung: Pegel-Online API",
-    "office": "WSV",
-    "description": "Pegelstände der Messstellen des bundesweiten Messstellennetzes der Wasserstraßen- und Schifffahrtsverwaltung des Bundes.",
-    "documentationURL": null,
-    "githubURL": "https://github.com/bundesAPI/pegel-online-api"
-  },
-
-  {
     "name": "Marktdatenstammregister API",
     "office": "Bundesnetzagentur",
     "description": "Das Marktstammdatenregister ist das Register für den deutschen Strom- und Gasmarkt, abgekürzt MaStR",
