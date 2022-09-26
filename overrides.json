@@ -4,7 +4,7 @@
     "office": "ARD",
     "description": "Dokumentation zur API der Tagesschau",
     "documentationURL": "https://bundesapi.github.io/tagesschau-api/",
-    "githubURL": "https://github.com/bundesAPI/tagesschau-api"    
+    "githubURL": "https://github.com/bundesAPI/tagesschau-api"
   },
   {
     "name": "DIP Bundestag API",
@@ -40,7 +40,7 @@
     "description": "API Beschreibung von Bundeshaushalt Digital.",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/bundeshaushalt-api"
-  }, 
+  },
   {
     "name": "Rechtsinformationsportal",
     "office": "Bundesministerium der Justiz und für Verbraucherschutz",
@@ -96,7 +96,7 @@
     "description": "Eine der größten Berufssprachkursdatenbanken Deutschlands durchsuchen.",
     "documentationURL": "https://bundesapi.github.io/berufssprachkurssuche-api/",
     "githubURL": "https://github.com/bundesAPI/berufssprachkurssuche-api"
-  },    
+  },
   {
     "name": "Entgeltatlas API",
     "office": "Bundesagentur für Arbeit",
@@ -104,13 +104,13 @@
     "documentationURL": "https://bundesapi.github.io/entgeltatlas-api/",
     "githubURL": "https://github.com/bundesAPI/entgeltatlas-api"
   },
-    {
+  {
     "name": "Ladesäulenregister",
     "office": "Bundesnetzagentur",
     "description": "API des Ladesäulenregisters der Bundesnetzagentur",
     "documentationURL": "https://ladestationen.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/ladestationen-api"
-  },  
+  },
   {
     "name": "SMARD API",
     "office": "Bundesnetzagentur",
@@ -123,7 +123,7 @@
     "office": "Bundesinstitut für Arzneimittel und Medizinprodukte",
     "description": "API zum DiGA-Verzeichnis https://diga.bfarm.de/de/ ",
     "documentationURL": null,
-    "githubURL": "https://github.com/bundesAPI/diga-api"    
+    "githubURL": "https://github.com/bundesAPI/diga-api"
   },
   {
     "name": "DESTATIS API",
@@ -138,21 +138,21 @@
     "description": "Statistische Daten des DESTATIS Deutschland Deutschland per API abrufen.",
     "documentationURL": "https://bundesapi.github.io/dashboard-deutschland-api/",
     "githubURL": "https://github.com/bundesAPI/dashboard-deutschland-api"
-  },    
+  },
   {
     "name": "NINA API",
     "office": "Bundesamt für Bevölkerungsschutz",
     "description": "Erhalten Sie wichtige Warnmeldungen des Bevölkerungsschutzes für Gefahrenlagen wie zum Beispiel Gefahrstoffausbreitung oder Unwetter per Programmierschnittstelle.",
     "documentationURL": "https://nina.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/nina-api"
-  },  
+  },
   {
     "name": "ODL-Info API",
     "office": "Bundesamt für Strahlenschutz",
     "description": "Daten zur radioaktiven Belastung in Deutschland.",
     "documentationURL": "https://strahlenschutz.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/strahlenschutz-api"
-  },  
+  },
   {
     "name": "Reisewarnungen OpenData Schnittstelle",
     "office": "Auswärtiges Amt",
@@ -166,13 +166,13 @@
     "description": "Schnittstellen der unterschiedlichen Visualisierungen der Luftdaten-Seite des Umweltbundesamtes.",
     "documentationURL": "https://luftqualitaet.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/luftqualitaet-api"
-  },  
+  },
   {
     "name": "Deutsche Digitale Bibliothek REST API",
     "office": "Stiftung Preußischer Kulturbesitz",
     "description": "Deutsche Digitale Bibliothek REST API",
     "documentationURL": null,
-    "githubURL": "https://github.com/bundesAPI/ddb-api"    
+    "githubURL": "https://github.com/bundesAPI/ddb-api"
   },
   {
     "name": "Meeresumweltdatenbank (MUDAB) 1.0.0",
@@ -201,14 +201,14 @@
     "description": "API zum Abfragen von Importzöllen und Wechselkursen.",
     "documentationURL": "https://zoll.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/zoll-api"
-  },  
+  },
   {
     "name": "Hochwasserzentralen API",
     "office": "LfU & LUBW",
     "description": "Länderübergreifendes Hochwasserportal (LHP) ",
     "documentationURL": "https://bundesapi.github.io/hochwasserzentralen-api/",
     "githubURL": "https://github.com/bundesAPI/hochwasserzentralen-api"
-  }, 
+  },
   {
     "name": "Handelsregister",
     "office": "Landesjustizverwaltung Nordrhein-Westfalen im Auftrag aller Länder der Bundesrepublik Deutschland",
@@ -229,7 +229,7 @@
     "description": "Aktuelle Wetterdaten von allen Deutschen Wetterstationen",
     "documentationURL": "https://dwd.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/dwd-api"
-  },    
+  },
   {
     "name": "Corona Risikogebiete API",
     "office": "Robert Koch Institut",
@@ -257,7 +257,7 @@
     "description": "Die Schnittstelle ermöglicht Ihnen, Anträge und Berichte aus Ihren eigenen Systemen in die unterschiedlichen Systeme der Verwaltung zu übermitteln.",
     "documentationURL": "https://fit-connect.fitko.de/",
     "githubURL": "https://git.fitko.de/fit-connect"
-  },    
+  },
   {
     "name": "VAG API",
     "office": "VAG",
@@ -278,7 +278,7 @@
     "description": "Zugriff auf die Termine der Müllabfuhr unterschiedlicher Kommunen.",
     "documentationURL": "https://bundesapi.github.io/abfallnavi-api/",
     "githubURL": "https://github.com/bundesAPI/abfallnavi-api"
-  },  
+  },
   {
     "name": "Feiertage API",
     "office": "Wikipedia",
@@ -299,5 +299,5 @@
     "description": "Das Marktstammdatenregister ist das Register für den deutschen Strom- und Gasmarkt, abgekürzt MaStR",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/marktstammdaten-api"
-  }  
+  }
 ]
