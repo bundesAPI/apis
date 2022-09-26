@@ -1,6 +1,14 @@
 name: Lint
 
 on:
+  push:
+    paths:
+      - "*.json"
+
+  pull_request:
+    paths:
+      - "*.json"
+
   workflow_dispatch:
 
 jobs:
