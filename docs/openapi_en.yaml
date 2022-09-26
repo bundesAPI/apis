@@ -23,7 +23,7 @@ paths:
           content:
             application/json:
               schema:
-                $ref: "#/components/schemas/responses"
+                $ref: "#/components/schemas/response"
 
       summary: "API"
       description: "API List"
@@ -32,7 +32,7 @@ paths:
 
 components:
   schemas:
-    responses:
+    response:
       type: array
       items:
         type: object
@@ -49,7 +49,7 @@ components:
           description:
             type: string
             nullable: true
-            example: Zugriff auf die Termine der Müllabfuhr unterschiedlicher Kommunen.
+            example: Zugriff auf die Termine der Müllabfuhr unterschiedlicher Kommunen
             description: Short description
           documentationURL:
             type: string
