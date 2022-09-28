@@ -36,12 +36,12 @@
     "pypiUrl": "https://pypi.org/project/de-berufssprachkurssuche"
   },
   {
-    "name": "Arbeitsagentur Bewerberbörse API",
-    "description": "API zur Bewerberbörse der Bundesagentur für Arbeit ",
-    "documentationURL": null,
+    "name": "Bewerberbörse API",
+    "office": "Bundesagentur für Arbeit",
+    "description": "API zur Bewerberbörse der Bundesagentur für Arbeit.",
+    "documentationURL": "https://bundesapi.github.io/bewerberboerse-api/",
     "githubURL": "https://github.com/bundesAPI/bewerberboerse-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bewerberboerse-api/main/openapi.yaml",
-    "pypiUrl": null
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bewerberboerse-api/main/openapi.yaml"
   },
   {
     "name": "Bundeshaushalt API",
