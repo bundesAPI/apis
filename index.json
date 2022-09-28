@@ -6,7 +6,7 @@
     "documentationURL": "https://bundesapi.github.io/abfallnavi-api/",
     "githubURL": "https://github.com/bundesAPI/abfallnavi-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/abfallnavi-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-abfallnavi"
+    "pypiURL": "https://pypi.org/project/de-abfallnavi"
   },
   {
     "name": "Ausbildungssuche API",
@@ -15,7 +15,7 @@
     "documentationURL": "https://bundesapi.github.io/ausbildungssuche-api/",
     "githubURL": "https://github.com/bundesAPI/ausbildungssuche-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/ausbildungssuche-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-ausbildungssuche"
+    "pypiURL": "https://pypi.org/project/de-ausbildungssuche"
   },
   {
     "name": "Autobahn App API",
@@ -24,7 +24,7 @@
     "documentationURL": "https://autobahn.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/autobahn-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/autobahn-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-autobahn"
+    "pypiURL": "https://pypi.org/project/de-autobahn"
   },
   {
     "name": "Berufssprachkurssuche API",
@@ -33,7 +33,7 @@
     "documentationURL": "https://bundesapi.github.io/berufssprachkurssuche-api/",
     "githubURL": "https://github.com/bundesAPI/berufssprachkurssuche-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/berufssprachkurssuche-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-berufssprachkurssuche"
+    "pypiURL": "https://pypi.org/project/de-berufssprachkurssuche"
   },
   {
     "name": "Bewerberbörse API",
@@ -50,7 +50,7 @@
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/bundeshaushalt-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bundeshaushalt-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-bundeshaushalt"
+    "pypiURL": "https://pypi.org/project/de-bundeshaushalt"
   },
   {
     "name": "Bundesrat Live Informationen",
@@ -59,7 +59,7 @@
     "documentationURL": "https://bundesrat.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/bundesrat-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bundestag-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-bundestag"
+    "pypiURL": "https://pypi.org/project/de-bundestag"
   },
   {
     "name": "Bundestag Live Informationen",
@@ -68,7 +68,7 @@
     "documentationURL": "https://bundestag.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/bundestag-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bundestag-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-bundestag"
+    "pypiURL": "https://pypi.org/project/de-bundestag"
   },
   {
     "name": "Bundestag Lobbyregister API",
@@ -77,7 +77,7 @@
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/bundestag-lobbyregister-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bundestag-lobbyregister-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-bundestag-lobbyregister"
+    "pypiURL": "https://pypi.org/project/de-bundestag-lobbyregister"
   },
   {
     "name": "Coachingangebote API",
@@ -86,7 +86,7 @@
     "documentationURL": "https://bundesapi.github.io/coachingangebote-api/",
     "githubURL": "https://github.com/bundesAPI/coachingangebote-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/coachingangebote-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-coachingangebote"
+    "pypiURL": "https://pypi.org/project/de-coachingangebote"
   },
   {
     "name": "Dashboard Deutschland API",
@@ -95,7 +95,7 @@
     "documentationURL": "https://bundesapi.github.io/dashboard-deutschland-api/",
     "githubURL": "https://github.com/bundesAPI/dashboard-deutschland-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/dashboard-deutschland-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-DashboardDeutschland"
+    "pypiURL": "https://pypi.org/project/de-DashboardDeutschland"
   },
   {
     "name": "Deutsche Digitale Bibliothek REST API",
@@ -103,7 +103,7 @@
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/ddb-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/ddb-api/main/openapi.yaml",
-    "pypiUrl": null
+    "pypiURL": null
   },
   {
     "name": "DESTATIS API",
@@ -112,7 +112,7 @@
     "documentationURL": "https://destatis.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/destatis-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/destatis-api/main/openapi.yaml",
-    "pypiUrl": null
+    "pypiURL": null
   },
   {
     "name": "DiGA API",
@@ -121,7 +121,7 @@
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/diga-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/diga-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-diga"
+    "pypiURL": "https://pypi.org/project/de-diga"
   },
   {
     "name": "DIP Bundestag API",
@@ -130,7 +130,7 @@
     "documentationURL": "https://dip.bundestag.de/%C3%BCber-dip/hilfe/api",
     "githubURL": "https://github.com/bundesAPI/dip-bundestag-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/dip-bundestag-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-dip-bundestag"
+    "pypiURL": "https://pypi.org/project/de-dip-bundestag"
   },
   {
     "name": "DWD App API",
@@ -139,7 +139,7 @@
     "documentationURL": "https://dwd.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/dwd-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/dwd-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-dwd"
+    "pypiURL": "https://pypi.org/project/de-dwd"
   },
   {
     "name": "Eco-Visio API",
@@ -148,7 +148,7 @@
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/eco-visio-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/eco-visio-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-EcoVisio"
+    "pypiURL": "https://pypi.org/project/de-EcoVisio"
   },
   {
     "name": "Entgeltatlas API",
@@ -157,7 +157,7 @@
     "documentationURL": "https://bundesapi.github.io/entgeltatlas-api/",
     "githubURL": "https://github.com/bundesAPI/entgeltatlas-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/entgeltatlas-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-entgeltatlas"
+    "pypiURL": "https://pypi.org/project/de-entgeltatlas"
   },
   {
     "name": "Feiertage API",
@@ -166,7 +166,7 @@
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/feiertage-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/feiertage-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-feiertage"
+    "pypiURL": "https://pypi.org/project/de-feiertage"
   },
   {
     "name": "Hilfsmittel-API",
@@ -174,7 +174,7 @@
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/hilfsmittel-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/hilfsmittel-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-hilfsmittel"
+    "pypiURL": "https://pypi.org/project/de-hilfsmittel"
   },
   {
     "name": "Hochwasserzentralen API",
@@ -183,7 +183,7 @@
     "documentationURL": "https://bundesapi.github.io/hochwasserzentralen-api/",
     "githubURL": "https://github.com/bundesAPI/hochwasserzentralen-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/hochwasserzentralen-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-hochwasserzentralen"
+    "pypiURL": "https://pypi.org/project/de-hochwasserzentralen"
   },
   {
     "name": "Interpol Notices API",
@@ -192,7 +192,7 @@
     "documentationURL": "https://interpol.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/interpol-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/interpol-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-interpol"
+    "pypiURL": "https://pypi.org/project/de-interpol"
   },
   {
     "name": "Jobsuche API",
@@ -201,7 +201,7 @@
     "documentationURL": "https://jobsuche.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/jobsuche-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/jobsuche-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-jobsuche"
+    "pypiURL": "https://pypi.org/project/de-jobsuche"
   },
   {
     "name": "Ladesäulenregister",
@@ -210,7 +210,7 @@
     "documentationURL": "https://ladestationen.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/ladestationen-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/ladestationen-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-ladestationen"
+    "pypiURL": "https://pypi.org/project/de-ladestationen"
   },
   {
     "name": "Lebensmittelwarnungen API",
@@ -219,7 +219,7 @@
     "documentationURL": "https://lebensmittelwarnung.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/lebensmittelwarnung-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/lebensmittelwarnung-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-lebensmittelwarnung"
+    "pypiURL": "https://pypi.org/project/de-lebensmittelwarnung"
   },
   {
     "name": "Luftqualität",
@@ -228,7 +228,7 @@
     "documentationURL": "https://luftqualitaet.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/luftqualitaet-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/luftqualitaet-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-luftqualitaet"
+    "pypiURL": "https://pypi.org/project/de-luftqualitaet"
   },
   {
     "name": "Marktdatenstammregister API",
@@ -236,7 +236,7 @@
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/marktstammdaten-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/marktstammdaten-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-marktstammdaten"
+    "pypiURL": "https://pypi.org/project/de-marktstammdaten"
   },
   {
     "name": "Meeresumweltdatenbank (MUDAB) 1.0.0",
@@ -245,7 +245,7 @@
     "documentationURL": "https://mudab.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/mudab-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/mudab-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-mudab"
+    "pypiURL": "https://pypi.org/project/de-mudab"
   },
   {
     "name": "NINA API",
@@ -254,7 +254,7 @@
     "documentationURL": "https://nina.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/nina-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/nina-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-nina"
+    "pypiURL": "https://pypi.org/project/de-nina"
   },
   {
     "name": "Wasserstraßen- und Schifffahrtsverwaltung: Pegel-Online API",
@@ -262,7 +262,7 @@
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/pegel-online-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/pegel-online-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-pegel-online"
+    "pypiURL": "https://pypi.org/project/de-pegel-online"
   },
   {
     "name": "Pflanzenschutzmittelzulassungen API",
@@ -271,7 +271,7 @@
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/pflanzenschutzmittelzulassung-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/pflanzenschutzmittelzulassung-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-pflanzenschutzmittelzulassung"
+    "pypiURL": "https://pypi.org/project/de-pflanzenschutzmittelzulassung"
   },
   {
     "name": "Polizei Brandenburg API",
@@ -280,7 +280,7 @@
     "documentationURL": "https://polizei.brandenburg.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/polizei-brandenburg-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/polizei-brandenburg-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-polizei-brandenburg"
+    "pypiURL": "https://pypi.org/project/de-polizei-brandenburg"
   },
   {
     "name": "Corona Risikogebiete API",
@@ -289,7 +289,7 @@
     "documentationURL": "https://risikogebiete.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/risikogebiete-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/risikogebiete-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-risikogebiete"
+    "pypiURL": "https://pypi.org/project/de-risikogebiete"
   },
   {
     "name": "SMARD API",
@@ -298,7 +298,7 @@
     "documentationURL": "https://smard.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/smard-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/smard-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-smard"
+    "pypiURL": "https://pypi.org/project/de-smard"
   },
   {
     "name": "ODL-Info API",
@@ -307,7 +307,7 @@
     "documentationURL": "https://strahlenschutz.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/strahlenschutz-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/strahlenschutz-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-strahlenschutz"
+    "pypiURL": "https://pypi.org/project/de-strahlenschutz"
   },
   {
     "name": "Studiensuche API",
@@ -316,7 +316,7 @@
     "documentationURL": "https://bundesapi.github.io/studiensuche-api/",
     "githubURL": "https://github.com/bundesAPI/studiensuche-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/studiensuche-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-studiensuche"
+    "pypiURL": "https://pypi.org/project/de-studiensuche"
   },
   {
     "name": "Tagesschau API",
@@ -325,7 +325,7 @@
     "documentationURL": "https://bundesapi.github.io/tagesschau-api/",
     "githubURL": "https://github.com/bundesAPI/tagesschau-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/tagesschau-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-tagesschau"
+    "pypiURL": "https://pypi.org/project/de-tagesschau"
   },
   {
     "name": "Reisewarnungen OpenData Schnittstelle",
@@ -334,7 +334,7 @@
     "documentationURL": "https://travelwarning.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/travelwarning-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/travelwarning-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-travelwarning"
+    "pypiURL": "https://pypi.org/project/de-travelwarning"
   },
   {
     "name": "VAG API",
@@ -343,7 +343,7 @@
     "documentationURL": "https://bundesapi.github.io/vag-api/",
     "githubURL": "https://github.com/bundesAPI/vag-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/vag-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-vag"
+    "pypiURL": "https://pypi.org/project/de-vag"
   },
   {
     "name": "Weiterbildungssuche API",
@@ -352,7 +352,7 @@
     "documentationURL": "https://bundesapi.github.io/weiterbildungssuche-api/",
     "githubURL": "https://github.com/bundesAPI/weiterbildungssuche-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/weiterbildungssuche-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-weiterbildungssuche"
+    "pypiURL": "https://pypi.org/project/de-weiterbildungssuche"
   },
   {
     "name": "Einfuhrzoll API",
@@ -361,7 +361,7 @@
     "documentationURL": "https://zoll.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/zoll-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/zoll-api/main/openapi.yaml",
-    "pypiUrl": "https://pypi.org/project/de-zoll"
+    "pypiURL": "https://pypi.org/project/de-zoll"
   },
   {
     "name": "Rechtsinformationsportal",
@@ -369,7 +369,7 @@
     "description": "Die Schnittstelle ermöglicht Dritten Zugriff auf die Daten von Gesetze-im-Internet.de",
     "documentationURL": "https://api.rechtsinformationsportal.de/",
     "githubURL": "https://github.com/tech4germany/rechtsinfo_api",
-    "pypiUrl": null,
+    "pypiURL": null,
     "rawOpenAPI": null
   },
   {
@@ -378,7 +378,7 @@
     "description": "Die Schnittstelle ermöglicht Ihnen, Anträge und Berichte aus Ihren eigenen Systemen in die unterschiedlichen Systeme der Verwaltung zu übermitteln.",
     "documentationURL": "https://fit-connect.fitko.de/",
     "githubURL": "https://git.fitko.de/fit-connect",
-    "pypiUrl": null,
+    "pypiURL": null,
     "rawOpenAPI": null
   },
   {
@@ -387,7 +387,7 @@
     "description": "API zum Abruf von allgemeinen Unternehmensinformationen über jedes Unternehmen im Handelsregister.",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/handelsregister",
-    "pypiUrl": null,
+    "pypiURL": null,
     "rawOpenAPI": null
   }
 ]

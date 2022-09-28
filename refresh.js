@@ -46,8 +46,8 @@ const main = async () => {
         rawOpenAPI: rawOpenAPI,
       }
 
-       if (package_name) result["pypiUrl"] = `https://pypi.org/project/${package_name}`
-       else result["pypiUrl"] = null
+       if (package_name) result["pypiURL"] = `https://pypi.org/project/${package_name}`
+       else result["pypiURL"] = null
 
 
       return result
