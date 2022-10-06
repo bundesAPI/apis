@@ -1,6 +1,7 @@
 const axios = require('axios')
 const yaml = require('js-yaml')
 const fs = require('fs/promises')
+const toml = require('toml');
 
 const main = async () => {
   let empty = false
@@ -19,17 +20,37 @@ const main = async () => {
   
     const result = await Promise.all(repos.map(async (repo) => {
       const rawOpenAPI = `https://raw.githubusercontent.com/bundesAPI/${repo.name}/main/openapi.yaml`
+
+      const rawPyprojectToml = `https://raw.githubusercontent.com/bundesAPI/${repo.name}/main/python-client/pyproject.toml`
+
+
       const { data: rawRepoData } = await axios.get(rawOpenAPI)
+
+      var package_name = null;
+    try {
+           const { data: rawPyprojectTomlData } = await axios.get(rawPyprojectToml)
+           const tomlData = toml.parse(rawPyprojectTomlData);
+           package_name = tomlData["tool"]["poetry"]["name"]
+
+    } catch (exception) {
+      console.log(`Error fetching pypi url for ${repo.name}`);
+    }
+
       const repoData = yaml.load(rawRepoData)
-  
-      return {
+     var result = {
         name: repoData.info.title,
         office: repoData.info['x-office'],
         description: repo.description,
         documentationURL: repo.homepage,
         githubURL: repo.html_url,
-        rawOpenAPI: rawOpenAPI
+        rawOpenAPI: rawOpenAPI,
       }
+
+       if (package_name) result["pypiURL"] = `https://pypi.org/project/${package_name}`
+       else result["pypiURL"] = null
+
+
+      return result
     }))
 
     entries.push(...result)

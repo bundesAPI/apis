@@ -5,7 +5,8 @@
     "description": "Zugriff auf die Termine der Müllabfuhr unterschiedlicher Kommunen.",
     "documentationURL": "https://bundesapi.github.io/abfallnavi-api/",
     "githubURL": "https://github.com/bundesAPI/abfallnavi-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/abfallnavi-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/abfallnavi-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-abfallnavi"
   },
   {
     "name": "Ausbildungssuche API",
@@ -13,7 +14,8 @@
     "description": "Eine der größten Ausbildungsdatenbanken Deutschlands durchsuchen.",
     "documentationURL": "https://bundesapi.github.io/ausbildungssuche-api/",
     "githubURL": "https://github.com/bundesAPI/ausbildungssuche-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/ausbildungssuche-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/ausbildungssuche-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-ausbildungssuche"
   },
   {
     "name": "Autobahn App API",
@@ -21,7 +23,8 @@
     "description": "Was passiert auf Deutschlands Bundesstraßen? API für aktuelle Verwaltungsdaten zu Baustellen, Staus und Ladestationen. Außerdem Zugang zu Verkehrsüberwachungskameras und vielen weiteren Datensätzen.",
     "documentationURL": "https://autobahn.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/autobahn-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/autobahn-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/autobahn-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-autobahn"
   },
   {
     "name": "Berufssprachkurssuche API",
@@ -29,7 +32,8 @@
     "description": "Eine der größten Berufssprachkursdatenbanken Deutschlands durchsuchen.",
     "documentationURL": "https://bundesapi.github.io/berufssprachkurssuche-api/",
     "githubURL": "https://github.com/bundesAPI/berufssprachkurssuche-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/berufssprachkurssuche-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/berufssprachkurssuche-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-berufssprachkurssuche"
   },
   {
     "name": "Bewerberbörse API",
@@ -45,7 +49,8 @@
     "description": "API Beschreibung von Bundeshaushalt Digital.",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/bundeshaushalt-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bundeshaushalt-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bundeshaushalt-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-bundeshaushalt"
   },
   {
     "name": "Bundesrat Live Informationen",
@@ -53,7 +58,8 @@
     "description": "Aktuelle Informationen aus dem deutschen Bundesrat.",
     "documentationURL": "https://bundesrat.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/bundesrat-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bundesrat-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bundestag-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-bundestag"
   },
   {
     "name": "Bundestag Live Informationen",
@@ -61,7 +67,8 @@
     "description": "Aktuelle Informationen aus dem deutschen Bundestag.",
     "documentationURL": "https://bundestag.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/bundestag-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bundestag-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bundestag-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-bundestag"
   },
   {
     "name": "Bundestag Lobbyregister API",
@@ -69,7 +76,8 @@
     "description": "API des Deutschen Bundestags zum Lobbyregister für die Interessenvertretung gegenüber dem Deutschen Bundestag und der Bundesregierung.",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/bundestag-lobbyregister-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bundestag-lobbyregister-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bundestag-lobbyregister-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-bundestag-lobbyregister"
   },
   {
     "name": "Coachingangebote API",
@@ -77,7 +85,8 @@
     "description": "Eine der größten Datenbanken zu Coaching-/Aktivierungsmaßnahmen Deutschlands durchsuchen.",
     "documentationURL": "https://bundesapi.github.io/coachingangebote-api/",
     "githubURL": "https://github.com/bundesAPI/coachingangebote-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/coachingangebote-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/coachingangebote-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-coachingangebote"
   },
   {
     "name": "Dashboard Deutschland API",
@@ -85,14 +94,16 @@
     "description": "Statistische Daten des DESTATIS Deutschland Deutschland per API abrufen.",
     "documentationURL": "https://bundesapi.github.io/dashboard-deutschland-api/",
     "githubURL": "https://github.com/bundesAPI/dashboard-deutschland-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/dashboard-deutschland-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/dashboard-deutschland-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-DashboardDeutschland"
   },
   {
     "name": "Deutsche Digitale Bibliothek REST API",
     "description": "Deutsche Digitale Bibliothek REST API",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/ddb-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/ddb-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/ddb-api/main/openapi.yaml",
+    "pypiURL": null
   },
   {
     "name": "DESTATIS API",
@@ -100,7 +111,8 @@
     "description": "Statistische Daten des DESTATIS via restful API abrufen.",
     "documentationURL": "https://destatis.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/destatis-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/destatis-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/destatis-api/main/openapi.yaml",
+    "pypiURL": null
   },
   {
     "name": "DiGA API",
@@ -108,7 +120,8 @@
     "description": "API zum DiGA-Verzeichnis https://diga.bfarm.de/de/ ",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/diga-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/diga-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/diga-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-diga"
   },
   {
     "name": "DIP Bundestag API",
@@ -116,7 +129,8 @@
     "description": "Über diese API ist ein lesender Zugriff auf die Entitäten von DIP (Vorgänge und Vorgangspositionen, Aktivitäten, Personen sowie Drucksachen und Plenarprotokolle) möglich.",
     "documentationURL": "https://dip.bundestag.de/%C3%BCber-dip/hilfe/api",
     "githubURL": "https://github.com/bundesAPI/dip-bundestag-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/dip-bundestag-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/dip-bundestag-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-dip-bundestag"
   },
   {
     "name": "DWD App API",
@@ -124,7 +138,8 @@
     "description": "Aktuelle Wetterdaten von allen Deutschen Wetterstationen",
     "documentationURL": "https://dwd.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/dwd-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/dwd-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/dwd-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-dwd"
   },
   {
     "name": "Eco-Visio API",
@@ -132,7 +147,8 @@
     "description": "API zu Eco-Visio von Eco-Counter.",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/eco-visio-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/eco-visio-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/eco-visio-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-EcoVisio"
   },
   {
     "name": "Entgeltatlas API",
@@ -140,7 +156,8 @@
     "description": "Eine Datenbank zu Entgelten für Berufstätigkeiten in Deutschland durchsuchen.",
     "documentationURL": "https://bundesapi.github.io/entgeltatlas-api/",
     "githubURL": "https://github.com/bundesAPI/entgeltatlas-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/entgeltatlas-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/entgeltatlas-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-entgeltatlas"
   },
   {
     "name": "Feiertage API",
@@ -148,15 +165,16 @@
     "description": "Zugriff auf den Feiertage Webservice https://feiertage-api.de/ .",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/feiertage-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/feiertage-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/feiertage-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-feiertage"
   },
   {
     "name": "Hilfsmittel-API",
-    "office": "GKV-Spitzenverband",
-    "description": "API des GKV-Spitzenverbands zu allen Hilfsmitteln, die unter die Leistungspflicht der Kassen fallen",
+    "description": null,
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/hilfsmittel-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/hilfsmittel-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/hilfsmittel-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-hilfsmittel"
   },
   {
     "name": "Hochwasserzentralen API",
@@ -164,7 +182,8 @@
     "description": "Länderübergreifendes Hochwasserportal (LHP) ",
     "documentationURL": "https://bundesapi.github.io/hochwasserzentralen-api/",
     "githubURL": "https://github.com/bundesAPI/hochwasserzentralen-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/hochwasserzentralen-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/hochwasserzentralen-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-hochwasserzentralen"
   },
   {
     "name": "Interpol Notices API",
@@ -172,7 +191,8 @@
     "description": "Per Interpol gesuchte oder vermisste Menschen per API abrufen.",
     "documentationURL": "https://interpol.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/interpol-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/interpol-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/interpol-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-interpol"
   },
   {
     "name": "Jobsuche API",
@@ -180,7 +200,8 @@
     "description": "Die größte Stellendatenbank Deutschlands durchsuchen, Details zu Stellenanzeigen und Informationen über Arbeitgeber abrufen.",
     "documentationURL": "https://jobsuche.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/jobsuche-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/jobsuche-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/jobsuche-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-jobsuche"
   },
   {
     "name": "Ladesäulenregister",
@@ -188,7 +209,8 @@
     "description": "API des Ladesäulenregisters der Bundesnetzagentur",
     "documentationURL": "https://ladestationen.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/ladestationen-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/ladestationen-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/ladestationen-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-ladestationen"
   },
   {
     "name": "Lebensmittelwarnungen API",
@@ -196,7 +218,8 @@
     "description": "Liste aller Lebensmittel und Produktwarnungen.",
     "documentationURL": "https://lebensmittelwarnung.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/lebensmittelwarnung-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/lebensmittelwarnung-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/lebensmittelwarnung-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-lebensmittelwarnung"
   },
   {
     "name": "Luftqualität",
@@ -204,15 +227,16 @@
     "description": "Schnittstellen der unterschiedlichen Visualisierungen der Luftdaten-Seite des Umweltbundesamtes.",
     "documentationURL": "https://luftqualitaet.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/luftqualitaet-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/luftqualitaet-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/luftqualitaet-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-luftqualitaet"
   },
   {
     "name": "Marktdatenstammregister API",
-    "office": "Bundesnetzagentur",
-    "description": "Das Marktstammdatenregister ist das Register für den deutschen Strom- und Gasmarkt, abgekürzt MaStR",
+    "description": null,
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/marktstammdaten-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/marktstammdaten-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/marktstammdaten-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-marktstammdaten"
   },
   {
     "name": "Meeresumweltdatenbank (MUDAB) 1.0.0",
@@ -220,7 +244,8 @@
     "description": "Meeres-Monitoringdaten von Küstenbundesländern und Forschungseinrichtungen.",
     "documentationURL": "https://mudab.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/mudab-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/mudab-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/mudab-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-mudab"
   },
   {
     "name": "NINA API",
@@ -228,15 +253,16 @@
     "description": "Erhalten Sie wichtige Warnmeldungen des Bevölkerungsschutzes für Gefahrenlagen wie zum Beispiel Gefahrstoffausbreitung oder Unwetter per Programmierschnittstelle.",
     "documentationURL": "https://nina.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/nina-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/nina-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/nina-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-nina"
   },
   {
     "name": "Wasserstraßen- und Schifffahrtsverwaltung: Pegel-Online API",
-    "office": "WSV",
-    "description": "Pegelstände der Messstellen des bundesweiten Messstellennetzes der Wasserstraßen- und Schifffahrtsverwaltung des Bundes.",
+    "description": null,
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/pegel-online-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/pegel-online-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/pegel-online-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-pegel-online"
   },
   {
     "name": "Pflanzenschutzmittelzulassungen API",
@@ -244,7 +270,8 @@
     "description": "Informationen über die in Deutschland zugelassenen Pflanzenschutzmittel.",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/pflanzenschutzmittelzulassung-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/pflanzenschutzmittelzulassung-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/pflanzenschutzmittelzulassung-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-pflanzenschutzmittelzulassung"
   },
   {
     "name": "Polizei Brandenburg API",
@@ -252,7 +279,8 @@
     "description": "Polizei Brandenburg Nachrichten, Hochwasser-, Verkehrs- und Waldbrandwarnungen.",
     "documentationURL": "https://polizei.brandenburg.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/polizei-brandenburg-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/polizei-brandenburg-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/polizei-brandenburg-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-polizei-brandenburg"
   },
   {
     "name": "Corona Risikogebiete API",
@@ -260,7 +288,8 @@
     "description": "Aktuelle Corona Risikogebietsinformationen als API.",
     "documentationURL": "https://risikogebiete.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/risikogebiete-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/risikogebiete-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/risikogebiete-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-risikogebiete"
   },
   {
     "name": "SMARD API",
@@ -268,7 +297,8 @@
     "description": "Zugriff auf Strommarktdaten der Bundesnetzagentur.",
     "documentationURL": "https://smard.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/smard-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/smard-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/smard-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-smard"
   },
   {
     "name": "ODL-Info API",
@@ -276,7 +306,8 @@
     "description": "Daten zur radioaktiven Belastung in Deutschland.",
     "documentationURL": "https://strahlenschutz.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/strahlenschutz-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/strahlenschutz-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/strahlenschutz-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-strahlenschutz"
   },
   {
     "name": "Studiensuche API",
@@ -284,7 +315,8 @@
     "description": "Eine der größten Datenbanken für Studienangebote in Deutschland durchsuchen.",
     "documentationURL": "https://bundesapi.github.io/studiensuche-api/",
     "githubURL": "https://github.com/bundesAPI/studiensuche-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/studiensuche-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/studiensuche-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-studiensuche"
   },
   {
     "name": "Tagesschau API",
@@ -292,7 +324,8 @@
     "description": "Dokumentation zur API der Tagesschau",
     "documentationURL": "https://bundesapi.github.io/tagesschau-api/",
     "githubURL": "https://github.com/bundesAPI/tagesschau-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/tagesschau-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/tagesschau-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-tagesschau"
   },
   {
     "name": "Reisewarnungen OpenData Schnittstelle",
@@ -300,7 +333,8 @@
     "description": "Zugriff auf Reisewarnungen des Auswärtigen Amtes im Rahmen der OpenData Initiative.",
     "documentationURL": "https://travelwarning.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/travelwarning-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/travelwarning-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/travelwarning-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-travelwarning"
   },
   {
     "name": "VAG API",
@@ -308,7 +342,8 @@
     "description": "Web-API für Echtzeitinformationen der VAG",
     "documentationURL": "https://bundesapi.github.io/vag-api/",
     "githubURL": "https://github.com/bundesAPI/vag-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/vag-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/vag-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-vag"
   },
   {
     "name": "Weiterbildungssuche API",
@@ -316,7 +351,8 @@
     "description": "Eine der größten Weiterbildungsdatenbanken Deutschlands durchsuchen.",
     "documentationURL": "https://bundesapi.github.io/weiterbildungssuche-api/",
     "githubURL": "https://github.com/bundesAPI/weiterbildungssuche-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/weiterbildungssuche-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/weiterbildungssuche-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-weiterbildungssuche"
   },
   {
     "name": "Einfuhrzoll API",
@@ -324,27 +360,34 @@
     "description": "API zum Abfragen von Importzöllen und Wechselkursen.",
     "documentationURL": "https://zoll.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/zoll-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/zoll-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/zoll-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-zoll"
   },
   {
     "name": "Rechtsinformationsportal",
     "office": "Bundesministerium der Justiz und für Verbraucherschutz",
     "description": "Die Schnittstelle ermöglicht Dritten Zugriff auf die Daten von Gesetze-im-Internet.de",
     "documentationURL": "https://api.rechtsinformationsportal.de/",
-    "githubURL": "https://github.com/tech4germany/rechtsinfo_api"
+    "githubURL": "https://github.com/tech4germany/rechtsinfo_api",
+    "pypiURL": null,
+    "rawOpenAPI": null
   },
   {
     "name": "FIT-Connect",
     "office": "FITKO",
     "description": "Die Schnittstelle ermöglicht Ihnen, Anträge und Berichte aus Ihren eigenen Systemen in die unterschiedlichen Systeme der Verwaltung zu übermitteln.",
     "documentationURL": "https://fit-connect.fitko.de/",
-    "githubURL": "https://git.fitko.de/fit-connect"
+    "githubURL": "https://git.fitko.de/fit-connect",
+    "pypiURL": null,
+    "rawOpenAPI": null
   },
   {
     "name": "Handelsregister",
     "office": "Landesjustizverwaltung Nordrhein-Westfalen im Auftrag aller Länder der Bundesrepublik Deutschland",
     "description": "API zum Abruf von allgemeinen Unternehmensinformationen über jedes Unternehmen im Handelsregister.",
     "documentationURL": null,
-    "githubURL": "https://github.com/bundesAPI/handelsregister"
+    "githubURL": "https://github.com/bundesAPI/handelsregister",
+    "pypiURL": null,
+    "rawOpenAPI": null
   }
 ]

@@ -18,6 +18,7 @@
   "homepage": "https://api.bund.dev",
   "dependencies": {
     "axios": "^0.27.2",
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.1.0",
+    "toml": "^3.0.0"
   }
 }
