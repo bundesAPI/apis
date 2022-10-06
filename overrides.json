@@ -54,6 +54,15 @@
     "pypiURL": "https://pypi.org/project/de-bundeshaushalt"
   },
   {
+    "name": "Bewerberbörse API",
+    "office": "Bundesagentur für Arbeit",
+    "description": "API zur Bewerberbörse der Bundesagentur für Arbeit.",
+    "documentationURL": "https://bundesapi.github.io/bewerberboerse-api/",
+    "githubURL": "https://github.com/bundesAPI/bewerberboerse-api",
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bewerberboerse-api/main/openapi.yaml",
+     "pypiURL": null
+  },
+  {
     "name": "Jobsuche API",
     "office": "Bundesagentur für Arbeit",
     "description": "Die größte Stellendatenbank Deutschlands durchsuchen, Details zu Stellenanzeigen und Informationen über Arbeitgeber abrufen.",
@@ -200,7 +209,7 @@
     "office": "Stiftung Preußischer Kulturbesitz",
     "description": "Deutsche Digitale Bibliothek REST API",
     "documentationURL": null,
-    "githubURL": "https://github.com/bundesAPI/ddb-api"    
+    "githubURL": "https://github.com/bundesAPI/ddb-api"
   },
   {
     "name": "Meeresumweltdatenbank (MUDAB) 1.0.0",
