@@ -60,7 +60,7 @@
     "documentationURL": "https://bundesapi.github.io/bewerberboerse-api/",
     "githubURL": "https://github.com/bundesAPI/bewerberboerse-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bewerberboerse-api/main/openapi.yaml",
-     "pypiURL": null
+    "pypiURL": null
   },
   {
     "name": "Jobsuche API",
@@ -344,7 +344,6 @@
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/hilfsmittel-api",
     "pypiURL": "https://pypi.org/project/de-hilfsmittel"
-
   },
   {
     "name": "Marktdatenstammregister API",
@@ -353,5 +352,10 @@
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/marktstammdaten-api",
     "pypiURL": "https://pypi.org/project/de-marktstammdaten"
-  }  
+  },
+  {
+    "name": "Pegel-Online API",
+    "documentationURL": "https://pegel-online.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/pegel-online-api"
+  }
 ]
