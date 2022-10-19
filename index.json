@@ -41,7 +41,8 @@
     "description": "API zur Bewerberbörse der Bundesagentur für Arbeit.",
     "documentationURL": "https://bundesapi.github.io/bewerberboerse-api/",
     "githubURL": "https://github.com/bundesAPI/bewerberboerse-api",
-    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bewerberboerse-api/main/openapi.yaml"
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/bewerberboerse-api/main/openapi.yaml",
+    "pypiURL": null
   },
   {
     "name": "Bundeshaushalt API",
@@ -99,6 +100,7 @@
   },
   {
     "name": "Deutsche Digitale Bibliothek REST API",
+    "office": "Stiftung Preußischer Kulturbesitz",
     "description": "Deutsche Digitale Bibliothek REST API",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/ddb-api",
@@ -170,7 +172,8 @@
   },
   {
     "name": "Hilfsmittel-API",
-    "description": null,
+    "office": "GKV-Spitzenverband",
+    "description": "API des GKV-Spitzenverbands zu allen Hilfsmitteln, die unter die Leistungspflicht der Kassen fallen",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/hilfsmittel-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/hilfsmittel-api/main/openapi.yaml",
@@ -232,7 +235,8 @@
   },
   {
     "name": "Marktdatenstammregister API",
-    "description": null,
+    "office": "Bundesnetzagentur",
+    "description": "Das Marktstammdatenregister ist das Register für den deutschen Strom- und Gasmarkt, abgekürzt MaStR",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/marktstammdaten-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/marktstammdaten-api/main/openapi.yaml",
@@ -257,9 +261,10 @@
     "pypiURL": "https://pypi.org/project/de-nina"
   },
   {
-    "name": "Wasserstraßen- und Schifffahrtsverwaltung: Pegel-Online API",
-    "description": null,
-    "documentationURL": null,
+    "name": "Pegel-Online API",
+    "office": "Wasserstraßen- und Schifffahrtsverwaltung",
+    "description": "Pegelstände der Messstellen des bundesweiten Messstellennetzes der Wasserstraßen- und Schifffahrtsverwaltung des Bundes.",
+    "documentationURL": "https://pegel-online.api.bund.dev",
     "githubURL": "https://github.com/bundesAPI/pegel-online-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/pegel-online-api/main/openapi.yaml",
     "pypiURL": "https://pypi.org/project/de-pegel-online"
