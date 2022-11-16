@@ -288,6 +288,14 @@
     "pypiURL": "https://pypi.org/project/de-polizei-brandenburg"
   },
   {
+    "name": "Umweltbundesamt: Rigoletto API",
+    "description": "rigoletto app api",
+    "documentationURL": "https://rigoletto.uba.api.bund.dev",
+    "githubURL": "https://github.com/bundesAPI/rigoletto-api",
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/rigoletto-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-rigoletto"
+  },
+  {
     "name": "Corona Risikogebiete API",
     "office": "Robert Koch Institut",
     "description": "Aktuelle Corona Risikogebietsinformationen als API.",
