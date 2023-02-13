@@ -288,6 +288,14 @@
     "pypiURL": "https://pypi.org/project/de-polizei-brandenburg"
   },
   {
+    "name": "Regionalatlas-API",
+    "description": "API zum Regionalatlas Deutschland der statistischen Ämter des Bundes und der Länder.",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/regionalatlas-api",
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/regionalatlas-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-Regionalatlas"
+  },
+  {
     "name": "Rigoletto API",
     "office": "Umweltbundesamt",
     "description": "rigoletto app api",
