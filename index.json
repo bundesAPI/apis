@@ -117,6 +117,14 @@
     "pypiURL": null
   },
   {
+    "name": "Deutschlandatlas-API",
+    "description": "API zum Deutschlandatalas",
+    "documentationURL": null,
+    "githubURL": "https://github.com/bundesAPI/deutschlandatlas-api",
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/deutschlandatlas-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-Deutschlandatlas"
+  },
+  {
     "name": "DiGA API",
     "office": "Bundesinstitut für Arzneimittel und Medizinprodukte",
     "description": "API zum DiGA-Verzeichnis https://diga.bfarm.de/de/ ",
