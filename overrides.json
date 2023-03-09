@@ -9,6 +9,24 @@
     "pypiURL": "https://pypi.org/project/de-tagesschau"
   },
   {
+    "name": "Deutschlandatlas API",
+    "office": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+    "description": "Dokumentation zum Deutschlandatlas",
+    "documentationURL": "https://bundesapi.github.io/deutschlandatlas-api/",
+    "githubURL": "https://github.com/bundesAPI/deutschlandatlas-api",
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/deutchlandatlas-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-deutschlandatlas"
+  },
+  {
+    "name": "Regionalatlas API",
+    "office": "Statistisches Bundesland",
+    "description": "Dokumentation zum Regionalatlas Deutschland",
+    "documentationURL": "https://bundesapi.github.io/regionalatlas-api/",
+    "githubURL": "https://github.com/bundesAPI/regionalatlas-api",
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/regionalatlas-api/main/openapi.yaml",
+    "pypiURL": "https://pypi.org/project/de-regionalatlas"
+  },
+  {
     "name": "DIP Bundestag API",
     "office": "Deutscher Bundestag",
     "description": "Über diese API ist ein lesender Zugriff auf die Entitäten von DIP (Vorgänge und Vorgangspositionen, Aktivitäten, Personen sowie Drucksachen und Plenarprotokolle) möglich.",
