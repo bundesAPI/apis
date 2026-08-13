@@ -36,6 +36,15 @@
     "pypiURL": "https://pypi.org/project/de-berufssprachkurssuche"
   },
   {
+    "name": "Berufenet API",
+    "office": "Bundesagentur für Arbeit",
+    "description": "API zur Bewerberbörse der Bundesagentur für Arbeit.",
+    "documentationURL": "https://bundesapi.github.io/bewerberboerse-api/",
+    "githubURL": "https://github.com/bundesAPI/berufenet-api",
+    "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/berufenet-api/main/openapi.yaml",
+    "pypiURL": null
+  },
+  {
     "name": "Bewerberbörse API",
     "office": "Bundesagentur für Arbeit",
     "description": "API zur Bewerberbörse der Bundesagentur für Arbeit.",
@@ -118,6 +127,7 @@
   },
   {
     "name": "Deutschlandatlas-API",
+    "office": "Statistisches Bundesamt",
     "description": "API zum Deutschlandatalas",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/deutschlandatlas-api",
@@ -294,9 +304,10 @@
     "githubURL": "https://github.com/bundesAPI/polizei-brandenburg-api",
     "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/polizei-brandenburg-api/main/openapi.yaml",
     "pypiURL": "https://pypi.org/project/de-polizei-brandenburg"
-  },
+  },  
   {
     "name": "Regionalatlas-API",
+    "office": "Statistische Ämter des Bundes und der Länder",
     "description": "API zum Regionalatlas Deutschland der statistischen Ämter des Bundes und der Länder.",
     "documentationURL": null,
     "githubURL": "https://github.com/bundesAPI/regionalatlas-api",
